@@ -1,6 +1,6 @@
 ---
 lang: de
-name: hello
+pageid: hello
 title: Willkommen in der Schweiz
 tagline: Nützliche Informationen für einen guten Start in der Schweiz
 ---
@@ -9,7 +9,7 @@ tagline: Nützliche Informationen für einen guten Start in der Schweiz
 Auf dieser Seite tragen wir wichtige Informationen zusammen welche dir helfen dich in der Schweiz schnell einzuleben.
 
 ## Themen
-- alfa
+- [Mobile Phones/SIM, Internet]({{ site.baseurl }}/mobile-{{ page.lang }}.html)
 - bravo
 - charlie
 

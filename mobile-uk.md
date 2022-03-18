@@ -1,6 +1,6 @@
 ---
 lang: en
-name: mobile
+pageid: mobile
 title: SIM-картки та мобільні підписки
 tagline: Мобільний та інтернет-провайдер і як отримати підписку
 ---

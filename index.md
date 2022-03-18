@@ -1,6 +1,6 @@
 ---
 lang: en
-name: hello
+pageid: hello
 title: Welcome - Willkommen - Прошу
 tagline: "Support the cause now"
 ---

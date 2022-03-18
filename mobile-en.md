@@ -1,6 +1,6 @@
 ---
 lang: en
-name: mobile
+pageid: mobile
 title: SIM Cards & mobile subscriptions
 tagline: Mobile and Internet provider and how to get a subscription
 ---
@@ -14,7 +14,7 @@ Depending on the mobile provider, SIM cards for the contract may be charged CHF 
 
 - [Free calls to Ukraine](https://www.blick.ch/wirtschaft/anrufe-und-roaming-kostenlos-swisscom-sunrise-und-salt-unterstuetzen-die-ukraine-id17279915.html)
 
-## Telecom / Mobile Ambieter
+## Telecom / Mobile Provider
 - [Sunrise](https://www.sunrise.ch/en/home)
 - [Salt](https://fiber.salt.ch/en)
 - [Swisscom](https://www.swisscom.ch/en/residential.html)
