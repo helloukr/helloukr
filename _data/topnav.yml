@@ -1,12 +1,12 @@
 - name: First-Steps
-  url: "/helloukr/first-steps-{{ page.lang }}.html"
+  pageid: first-steps
 - name: Unterkunft
-  url: "/helloukr/housing-{{ page.lang }}.html"
+  pageid: housing
 - name: Mobile/SIM
-  url: "/helloukr/mobile-{{ page.lang }}.html"  
+  pageid: mobile
 - name: Health
-  url: "/helloukr/health-{{ page.lang }}.html"
+  pageid: health
 - name: Transport
-  url: "/helloukr/transport-{{ page.lang }}.html"
+  pageid: transport
 - name: Finance
-  url: "/helloukr/finance-{{ page.lang }}.html"
+  pageid: finance
