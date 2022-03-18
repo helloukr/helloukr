@@ -22,7 +22,7 @@ Alle SIM-Karten in der Schweiz müssen mit einem gültigen amtlichen Ausweisdoku
 - [Kostenlose Anrufe in die Ukraine](https://www.blick.ch/wirtschaft/anrufe-und-roaming-kostenlos-swisscom-sunrise-und-salt-unterstuetzen-die-ukraine-id17279915.html)
 
 ## Telecom / Mobile Anbieter
-{% for item in provider %}
+{% for item in page.provider %}
 - [{{ item.name }}]({{ item.url }})
 {% endfor %}
 
