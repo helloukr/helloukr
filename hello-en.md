@@ -1,7 +1,6 @@
 ---
-layout: default
 lang: en
-show_nav: True
+name: hello
 title: Welcome to Switzerland
 tagline: Useful information to get you started in Switzerland
 ---

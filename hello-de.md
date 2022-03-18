@@ -1,7 +1,6 @@
 ---
-layout: default
 lang: de
-show_nav: True
+name: hello
 title: Willkommen in der Schweiz
 tagline: Nützliche Informationen für einen guten Start in der Schweiz
 ---

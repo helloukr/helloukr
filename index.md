@@ -1,6 +1,6 @@
 ---
-layout: default
 lang: en
+name: hello
 title: Welcome - Willkommen - Прошу
 tagline: "Support the cause now"
 ---

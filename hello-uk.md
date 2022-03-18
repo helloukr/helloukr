@@ -1,14 +1,13 @@
 ---
-layout: default
 lang: uk
-show_nav: True
+name: hello
 title: Ласкаво просимо до Швейцарії
 tagline: Корисна інформація, щоб ви почали в Швейцарії
 ---
 # {{ page.title }}
 
 ## Основні теми
-- alfa
+- [Мобільні телефони/SIM, Інтернет]({{ site.baseurl }}/mobile-{{ page.lang }}.html)
 - bravo
 - charlie
 
