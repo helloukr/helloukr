@@ -2,7 +2,7 @@
 lang: en
 pageid: hello
 title: Welcome - Willkommen - Прошу
-tagline: "Support the cause now"
+tagline: Nützliche Informationen für Schutzsuchende aus der Ukraine
 ---
 # {{ page.title }}
 
