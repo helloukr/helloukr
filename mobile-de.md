@@ -12,9 +12,7 @@ Alle SIM-Karten in der Schweiz müssen mit einem gültigen amtlichen Ausweisdoku
 
 - [Kostenlose Anrufe in die Ukraine](https://www.blick.ch/wirtschaft/anrufe-und-roaming-kostenlos-swisscom-sunrise-und-salt-unterstuetzen-die-ukraine-id17279915.html)
 
-**
-Für ukrainische Flüchtlinge, die den Flüchtlingsstatus S besitzen oder diesen von Swisscom beantragen wollen, gibt es eine kostenlose SIM-Karte mit unbegrenztem Internet und unbegrenzten Anrufen im ganzen Land.
-**
+**Für ukrainische Flüchtlinge, die den Flüchtlingsstatus S besitzen oder diesen von Swisscom beantragen wollen, gibt es eine kostenlose SIM-Karte mit unbegrenztem Internet und unbegrenzten Anrufen im ganzen Land.**
 [Swisscom unterstützt Ukraine](https://www.swisscom.ch/de/privatkunden/ukraine-ukr.html)
 
 
