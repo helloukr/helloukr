@@ -12,13 +12,16 @@ Depending on the mobile provider, SIM cards for the contract may be charged CHF 
 
 ## Free Calls to Ukraine
 > Sunrise, Swisscom and Salt will temporarily cover the costs of calls to Ukraine and from Ukraine to Switzerland. The offer is limited in time, clarify the date.
+- [Free calls to Ukraine](https://www.blick.ch/wirtschaft/anrufe-und-roaming-kostenlos-swisscom-sunrise-und-salt-unterstuetzen-die-ukraine-id17279915.html)
 
-```
+
+**
 There is a **special promotion for Ukrainian refugees who own the Refugee Status S** or plan to apply for it by Swisscom:
 A free SIM Card with unlimited internet and unlimited calls nationwide.
-[Swisscom supports Ukraine](https://www.swisscom.ch/de/privatkunden/ukraine-ukr.html)
-```
-- [Free calls to Ukraine](https://www.blick.ch/wirtschaft/anrufe-und-roaming-kostenlos-swisscom-sunrise-und-salt-unterstuetzen-die-ukraine-id17279915.html)
+**
+- [Swisscom supports Ukraine](https://www.swisscom.ch/de/privatkunden/ukraine-ukr.html)
+
+
 
 ## Getting a SIM Card & Subscription
 All SIM cards in Switzerland need to be registered with a **valid official document**. 

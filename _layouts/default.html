@@ -15,11 +15,11 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <p style="padding: 1rem 6rem; margin: 0 auto;">
-      <a href="{{ site.url }}">HOME</a> |
+      <a href="{{ site.url }}{{ site.baseurl }}">HOME</a> |
       {% for item in site.data.topnav %}
         <a href="{{ site.baseurl }}{{ item.pageid }}-{{ page.lang }}.html">{{ item.name }}</a> |
       {% endfor %}
-      <a href="{{ site.baseurl }}about.html">About</a>
+      <a href="{{ site.baseurl }}about-{{ page.lang }}.html">About</a>
     </p>
 
     <header class="page-header" role="banner">
@@ -35,7 +35,7 @@
       {{ content }}
 
       <footer class="site-footer">
-        <span class="site-footer-credits">provided by volunteers: x={{ site.data.topnav }}</a></span>
+        <span class="site-footer-credits">provided by volunteers | {{ site.time }} </a></span>
       </footer>
     </main>
   </body>

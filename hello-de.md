@@ -15,6 +15,7 @@ Auf dieser Seite tragen wir wichtige Informationen zusammen welche dir helfen di
 - [Gesundheit]({{ site.baseurl }}/health-{{ page.lang }}.html)
 - [Transport / Verkehr]({{ site.baseurl }}/transport-{{ page.lang }}.html)
 - [Finanzen]({{ site.baseurl }}/finance-{{ page.lang }}.html)
+- [Notfall]({{ site.baseurl }}/emergency-{{ page.lang }}.html)
 
 
 
