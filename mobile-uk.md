@@ -13,6 +13,7 @@ tagline: Мобільний та інтернет-провайдер і як о�
 - [Безкоштовні дзвінки в Україну](https://www.blick.ch/wirtschaft/anrufe-und-roaming-kostenlos-swisscom-sunrise-und-salt-unterstuetzen-die-ukraine-id17279915.html)
 
 ## Телеком / Оператор мобільного зв'язку
+- [Мобільний/Інтернет-провайдер Швейцарія](https://www.providerliste.ch/provider/mobile.html)
 - [Sunrise](https://www.sunrise.ch/en/home)
 - [Salt](https://fiber.salt.ch/en)
 - [Swisscom](https://www.swisscom.ch/en/residential.html)
