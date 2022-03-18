@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-domain: helloukraine.ch      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: http://helloukraine.ch
+domain: www.helloukraine.ch      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: http://www.helloukraine.ch
 baseurl: /
 
 title: Default Title
