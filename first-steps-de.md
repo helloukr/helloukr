@@ -13,8 +13,9 @@ tagline: Erste Schritte in der Schweiz, Anmeldung, Behörden
 - Ankommen
 - Anmeldung / Schutzstatus
 - Unterkunft
+- Kommunikation / SIM-Karte
 - Gesundheit
-- Kommunikation
+- Transport
 - Bankkonto
 - Arbeiten
 
@@ -27,6 +28,7 @@ Alle Personen, die ihren Wohnsitz vor dem 24. Februar in der Ukraine hatten, erh
 
 > Wir empfehlen allen Schutzsuchenden, so schnell wie möglich ein Gesuch einzureichen.
 
+- [Staatssekretariat für Migration SEMStaatssekretariat für Migration SEM](https://www.sem.admin.ch/sem/de/home.html)
 - [Gesuch Schutzzstatus S (pdf)](https://www.sem.admin.ch/dam/sem/de/data/asyl/gesuch-schutzstatus-s.pdf.download.pdf/gesuch-schutzstatus-s-d.pdf)
 
 ## Unterkunft

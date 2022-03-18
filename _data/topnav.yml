@@ -1,7 +1,12 @@
-- name: HOME
-  url: "{{ site.url }}{{ site.baseurl }}"
 - name: First-Steps
-  url: "{{ site.baseurl }}first-steps-{{ page.lang }}.html"
+  url: "/helloukr/first-steps-{{ page.lang }}.html"
+- name: Unterkunft
+  url: "/helloukr/housing-{{ page.lang }}.html"
 - name: Mobile/SIM
-  url: "{{ site.baseurl }}mobile-{{ page.lang }}.html"
-
+  url: "/helloukr/mobile-{{ page.lang }}.html"  
+- name: Health
+  url: "/helloukr/health-{{ page.lang }}.html"
+- name: Transport
+  url: "/helloukr/transport-{{ page.lang }}.html"
+- name: Finance
+  url: "/helloukr/finance-{{ page.lang }}.html"
