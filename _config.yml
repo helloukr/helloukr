@@ -4,8 +4,9 @@ url: http://helloukraine.ch
 baseurl: /
 
 title: Default Title
-tagline: Default Tagline
+tagline: "..."
 
+revolut: https://www.revolut.com/referral/pascal30y!MAR1-22-AR
 
 defaults:
   - scope:

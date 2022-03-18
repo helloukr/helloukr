@@ -6,10 +6,6 @@ tagline: Mobile and Internet provider and how to get a subscription
 ---
 # {{ page.title }}
 
-All SIM cards in Switzerland need to be registered with a valid official identification document (passport, identification card). 
-Drivers licenses are not accepted. 
-Depending on the mobile provider, SIM cards for the contract may be charged CHF 40.-.
-
 ## Free Calls to Ukraine
 > Sunrise, Swisscom and Salt will temporarily cover the costs of calls to Ukraine and from Ukraine to Switzerland. The offer is limited in time, clarify the date.
 - [Free calls to Ukraine](https://www.blick.ch/wirtschaft/anrufe-und-roaming-kostenlos-swisscom-sunrise-und-salt-unterstuetzen-die-ukraine-id17279915.html)
@@ -24,7 +20,7 @@ A free SIM Card with unlimited internet and unlimited calls nationwide.**
 ## Getting a SIM Card & Subscription
 All SIM cards in Switzerland need to be registered with a **valid official document**. 
 Drivers licenses are not accepted. Often SIM cards for contracts imply a setup fee of up to CHF 40.-.
-There are 3 major network providers and a number of smaller service providers using one of those networks. 
+There are three major network providers and a number of smaller service providers using one of those networks. 
 Salt, Sunrise and Swisscom are the network providers. 
 Sunrise and Swisscom have the best coverage, Salt usually has the cheapest offers. 
 

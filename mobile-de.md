@@ -6,8 +6,6 @@ tagline: Mobiltelefonie, SIM-Karten und Internet Abos / Verträge
 ---
 # {{ page.title }}
 
-Alle SIM-Karten in der Schweiz müssen mit einem gültigen amtlichen Ausweisdokument (Pass, Personalausweis) registriert sein. Führerscheine werden nicht akzeptiert. Je nach Mobilfunkanbieter können SIM-Karten für den Vertrag mit CHF 40.- belastet werden.
-
 > Sunrise, Swisscom und Salt übernehmen vorübergehend die Kosten für Anrufe in die Ukraine und von der Ukraine in die Schweiz. Das Angebot ist befristet, Termin abklären.
 
 - [Kostenlose Anrufe in die Ukraine](https://www.blick.ch/wirtschaft/anrufe-und-roaming-kostenlos-swisscom-sunrise-und-salt-unterstuetzen-die-ukraine-id17279915.html)
@@ -18,7 +16,7 @@ Alle SIM-Karten in der Schweiz müssen mit einem gültigen amtlichen Ausweisdoku
 ## SIM Karte & Mobilvertrag
 SIM-Karten in der Schweiz müssen mit einem **gültigen offiziellen Dokument** registriert werden. 
 Führerscheine werden nicht akzeptiert. Oft wird für die SIM-Karte eine Einrichtungsgebühr von bis zu CHF 40.- verlangt. 
-In der Schweiz gibt es 3 grosse Netzwerkanbieter und eine Reihe kleinerer Dienstanbieter, welche eines dieser Netzwerke nutzen. 
+In der Schweiz gibt es drei grosse Netzwerkanbieter und eine Reihe kleinerer Dienstanbieter, welche eines dieser Netzwerke nutzen. 
 Salt, Sunrise und Swisscom sind die Netzbetreiber. Sunrise und Swisscom haben die beste Abdeckung, Salt hat in der Regel die günstigsten Angebote.
 
 ### Service Optionen
