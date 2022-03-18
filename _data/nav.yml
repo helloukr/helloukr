@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: Alfa
+  link: /alfa
+- name: Bravo
+  link: /bravo
+- name: Alfa-2
+  link: /uno/alfa
+- name: Bravo-2
+  link: /uno/bravo    
