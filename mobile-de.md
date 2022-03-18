@@ -15,9 +15,6 @@ Alle SIM-Karten in der Schweiz müssen mit einem gültigen amtlichen Ausweisdoku
 **Für ukrainische Flüchtlinge, die den Flüchtlingsstatus S besitzen oder diesen von Swisscom beantragen wollen, gibt es eine kostenlose SIM-Karte mit unbegrenztem Internet und unbegrenzten Anrufen im ganzen Land.**
 [Swisscom unterstützt Ukraine](https://www.swisscom.ch/de/privatkunden/ukraine-ukr.html)
 
-
-
-
 ## SIM Karte & Mobilvertrag
 SIM-Karten in der Schweiz müssen mit einem **gültigen offiziellen Dokument** registriert werden. 
 Führerscheine werden nicht akzeptiert. Oft wird für die SIM-Karte eine Einrichtungsgebühr von bis zu CHF 40.- verlangt. 

@@ -30,6 +30,8 @@ Alle Personen, die ihren Wohnsitz vor dem 24. Februar in der Ukraine hatten, erh
 Mit dem Schutzstatus «S» erhalten betroffene Personen rasch und unbürokratisch Schutz in der Schweiz – ohne Durchführung eines ordentlichen Asylverfahrens. 
 Der Schutzstatus «S» gewährt ein Aufenthaltsrecht, Anspruch auf Unterbringung, Unterstützung und medizinische Versorgung und erlaubt den Nachzug von Familienangehörigen. Und ganz wichtig: die Kinder können zur Schule gehen.
 
+![Schutzstatus S](/assets/img/s-permit.jpg)
+
 #### Wir empfehlen allen Schutzsuchenden, so schnell wie möglich ein Gesuch einzureichen
 Dafür müssen Sie sich in einem Bundesasylzentrum registrieren lassen. 
 Das müssen Sie aber nicht heute und morgen tun – Sie haben dafür bis zu 90 Tage Zeit.

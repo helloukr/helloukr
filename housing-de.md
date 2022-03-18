@@ -27,3 +27,8 @@ Hier finden Sie unsere Empfehlungen, damit Sie und Ihre Gemeinde sich gut auf di
 - [So können sie lokal helfen](https://www.fluechtlingshilfe.ch/aktiv-werden/fuer-ukrainische-gefluechtete/so-koennen-sie-lokal-helfen)
 
 
+## Schweizer Kirchen Helfen
+Schweizer Kirchen helfen wir Flüchtenden aus der Ukraine.
+Sie verbinden Privatpersonen, die Helfen möchten, mit lokalen Kirchen und koordinieren mit Hilfswerken die Unterbringung von Gästen.
+
+- [Schweizer Kirchen helfen wirFlüchtenden aus der Ukraine](https://kirchen-helfen.ch)
