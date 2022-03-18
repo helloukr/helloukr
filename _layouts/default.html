@@ -16,7 +16,7 @@
 
     <p style="padding: 1rem 6rem; margin: 0 auto;">
       {% for item in site.data.topnav %}
-        <a href="{{ item.link }}">{{ item.name }}</a> |
+        <a href="{{ item.url }}">{{ item.name }}</a> |
       {% endfor %}
       <a href="{{ site.baseurl }}about.html">About</a>
     </p>
@@ -34,7 +34,7 @@
       {{ content }}
 
       <footer class="site-footer">
-        <span class="site-footer-credits">provided by volunteers</a></span>
+        <span class="site-footer-credits">provided by volunteers: x={{ site.data.topnav }}</a></span>
       </footer>
     </main>
   </body>

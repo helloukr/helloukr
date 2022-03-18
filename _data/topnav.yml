@@ -1,7 +1,7 @@
 - name: HOME
-  link: {{ site.url }}{{ site.baseurl }}
+  url: "{{ site.url }}{{ site.baseurl }}"
 - name: First-Steps
-  link: {{ site.baseurl }}first-steps-{{ page.lang }}.html
+  url: "{{ site.baseurl }}first-steps-{{ page.lang }}.html"
 - name: Mobile/SIM
-  link: {{ site.baseurl }}mobile-{{ page.lang }}.html
+  url: "{{ site.baseurl }}mobile-{{ page.lang }}.html"
 
