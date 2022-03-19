@@ -13,3 +13,6 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+plugins:
+  - jemoji
