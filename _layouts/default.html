@@ -17,7 +17,13 @@
     <p style="padding: 1rem 6rem; margin: 0 auto;">
       <a href="{{ site.url }}{{ site.baseurl }}">HOME</a> |
       {% for item in site.data.topnav %}
-        <a href="{{ site.baseurl }}{{ item.pageid }}-{{ page.lang }}.html">{{ item.name }}</a> |
+        {% if page.lang=="de" %}
+          <a href="{{ site.baseurl }}{{ item.pageid }}-de.html">{{ item.de }}</a> |
+        {% elsif page.lang=="uk" %}
+          <a href="{{ site.baseurl }}{{ item.pageid }}-uk.html">{{ item.uk }}</a> |
+        {% else %}
+          <a href="{{ site.baseurl }}{{ item.pageid }}-en.html">{{ item.en }}</a> |
+        {% endif %}
       {% endfor %}
       <a href="{{ site.baseurl }}about-{{ page.lang }}.html">About</a>
     </p>
