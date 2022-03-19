@@ -3,7 +3,7 @@ domain: www.helloukraine.ch      # if you want to force HTTPS, specify the domai
 url: http://www.helloukraine.ch
 baseurl: /
 
-title: Default Title
+title: Hello Ukraine
 tagline: "..."
 
 revolut: https://www.revolut.com/referral/pascal30y!MAR1-22-AR

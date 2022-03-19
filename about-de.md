@@ -8,5 +8,3 @@ tagline: Wer sind wir
 
 Wir sind eine Gruppe von freiwiligen Helfern aus der Schweiz.
 Wir versuchen neu ankommenden Flüchtlingen aus der Ukraine den Start in der Schweiz zu erleichtern.
-
-Hello World
