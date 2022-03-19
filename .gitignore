@@ -1,2 +1,18 @@
-### Ignore Compiled Pages ###
-_site/
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+# Mac thumbnail
+*.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Folder config file
+[Dd]esktop.ini
+

@@ -1,0 +1,30 @@
+---
+---
+
+// Headers
+$header-bg-color: #ffd700 !default;
+$header-bg-color-secondary: #0057b7 !default;
+
+
+// Text
+$section-headings-color: #0057b7 !default;
+
+@import "{{ site.theme }}";
+
+.page-header {
+  background-image: url(/assets/img/banner.jpg);
+  background: url(/assets/img/banner.jpg);
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  
+  padding: 3rem 6rem 5rem 6rem;
+}
+
+.project-tagline {
+ opacity: 1;
+ }
+ 
+ .btn {
+ color: #fff;
+ background-color: #0057b7;
+ }
