@@ -1,12 +1,12 @@
 ---
 lang: en
 pageid: hello
-title: Welcome - Willkommen - Прошу
+title: Welcome - Willkommen - Ласкаво просимо
 tagline: Nützliche Informationen für Schutzsuchende aus der Ukraine
 ---
 # {{ page.title }}
 
-## Прошу
+## Ласкаво просимо
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
 ## Willkommen

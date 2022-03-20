@@ -8,7 +8,7 @@ tagline:
 
 ## The currency
 #### The Swiss franc
-The Swiss franc (also known as the Swiss franc) is the currency of the Swiss Confederation and the Principality of Liechtenstein. 
+The Swiss franc is the currency of the Swiss Confederation and the Principality of Liechtenstein. 
 It is issued by the Swiss National Bank and is divided into 100 centimes. 
 Its abbreviation according to ISO 4217 is **CHF**, in German **Fr.**, in the other languages **fr.**
 

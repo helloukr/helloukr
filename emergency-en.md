@@ -14,9 +14,9 @@ With mobile phones, they can also be dialed directly and **without area code** f
 > In Switzerland 911 is **no emergency number**
 
 ## Police | 117
-You need help calling the police on phone 117: 
+You need help? You can call the police on phone 117: 
 - Wait until the police arrive, do not intervene 
-- Close monitoring so that you can provide the police with information (e.B. about people)
+- Watch carefully situation so that you can provide the police with important information (e.B. about people)
 
 ## Fire brigade | 118
 If there is a fire, call the fire brigade on phone 118: 
