@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: uk
 pageid: emergency
 title: Надзвичайних
 tagline: Екстрені номери та аварійні служби Швейцарії

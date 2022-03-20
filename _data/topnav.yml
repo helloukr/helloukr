@@ -1,14 +1,28 @@
-- name: First-Steps
+- en: First-Steps
+  de: Erste Schritte
+  uk: Знайомство
   pageid: first-steps
-- name: Unterkunft
+- en: Accomodation
+  de: Unterkunft
+  uk: Проживання
   pageid: housing
-- name: Mobile/SIM
+- en: Mobile/SIM
+  de: Mobile/SIM
+  uk: Мобільний/SIM
   pageid: mobile
-- name: Health
+- en: Health
+  de: Gesundheit
+  uk: Здоров'я
   pageid: health
-- name: Transport
+- en: Transport
+  de: Verkehr
+  uk: Трафік
   pageid: transport
-- name: Finance
+- en: Finance
+  de: Finanzen
+  uk: Фінанси
   pageid: finance
-- name: Emergency
+- en: Emergency
+  de: Notfall
+  uk: Надзвичайних
   pageid: emergency  
