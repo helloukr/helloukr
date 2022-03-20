@@ -7,7 +7,8 @@ tagline: Informationen und Empfehlungen für Flüchtlinge und Helfende
 # {{ page.title }}
 
 
-Die [Schweizerische Flüchtlingshilfe](https://www.fluechtlingshilfe.ch/aktiv-werden/fuer-ukrainische-gefluechtete) und [CAMPAX](https://campax.org) koordiniert in Zusammenarbeit mit Partnerorganisationen die Unterbringung von ukrainischen Geflüchteten bei privaten Gastfamilien. 
+Die [Schweizerische Flüchtlingshilfe](https://www.fluechtlingshilfe.ch/aktiv-werden/fuer-ukrainische-gefluechtete) und [CAMPAX](https://campax.org)
+koordiniert in Zusammenarbeit mit Partnerorganisationen die Unterbringung von ukrainischen Geflüchteten bei privaten Gastfamilien. 
 
 
 ## CAMPAX
@@ -28,7 +29,7 @@ Hier finden Sie unsere Empfehlungen, damit Sie und Ihre Gemeinde sich gut auf di
 
 
 ## Schweizer Kirchen Helfen
-Schweizer Kirchen helfen Flüchtenden aus der Ukraine.
-Sie verbinden Privatpersonen, die Helfen möchten, mit lokalen Kirchen und koordinieren mit Hilfswerken die Unterbringung von Gästen.
+Schweizer Kirchen helfen Flüchtenden aus der Ukraine ebenfalls.
+Sie verbinden Privatpersonen, die Helfen möchten und koordinieren mit Hilfswerken die Unterbringung von Gästen.
 
-- [Schweizer Kirchen helfen wirFlüchtenden aus der Ukraine](https://kirchen-helfen.ch)
+- [Als Schweizer Kirchen helfen wir Flüchtenden aus der Ukraine.](https://kirchen-helfen.ch)

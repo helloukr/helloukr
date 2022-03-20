@@ -8,7 +8,7 @@ tagline: Mobile and Internet provider and how to get a subscription
 
 ## Free Calls to Ukraine
 > Sunrise, Swisscom and Salt will temporarily cover the costs of calls to Ukraine and from Ukraine to Switzerland. The offer is limited in time, clarify the date.
-- [Free calls to Ukraine](https://www.blick.ch/wirtschaft/anrufe-und-roaming-kostenlos-swisscom-sunrise-und-salt-unterstuetzen-die-ukraine-id17279915.html)
+- [Ukraine: Sunrise UPC waives charges for calls](https://www.sunrise.ch/de/corporate-communications/medien/pressemitteilungen/newscontent.html#id=https://irpages2.eqs.com/websites/swissfeed/English/99/detail-page.html?newsId=1525da96-2864-4d42-9efa-3099f185a807)
 
 
 **There is a special promotion for Ukrainian refugees who own the Refugee Status S or plan to apply for it by Swisscom:
