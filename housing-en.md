@@ -28,6 +28,6 @@ Here you will find our recommendations so that you and your community can prepar
 
 
 ## Swiss churches help
-Swiss churches help refugees from Ukraine. They connect private individuals who want to help with local churches and coordinate the accommodation of guests with aid organizations.
+Swiss churches help refugees from Ukraine. They connect private individuals who want to help and coordinate the accommodation of guests together with aid organizations.
 
 - [Swiss churches help refugees from Ukraine](https://kirchen-helfen.ch)

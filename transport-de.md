@@ -6,10 +6,8 @@ tagline: Transportwesen und öffentlicher Verkehr in der Schweiz
 ---
 # {{ page.title }}
 
-#### Flüchtende aus der Ukraine dürfen mit dem öV gratis in respektive durch die Schweiz reisen :fire:
->Im Zusammenhang mit dem Krieg in der Ukraine und analog zu den meisten ost- und zentraleuropäischen Bahnen hat die Alliance SwissPass entschieden,
-dass aus der Ukraine geflüchtete Personen den öffentlichen Verkehr in der Schweiz kostenlos für die Einreise zu ihrem Bestimmungsort in der Schweiz
-oder die Durchreise nützen dürfen.
+#### Flüchtlinge aus der Ukraine dürfen Schweizer öV bis Ende Mai kostenlos nutzen :fire:
+>Seit dem 1. März können aus der Ukraine geflüchtete Personen den öffentlichen Verkehr kostenlos für die Anreise zu ihren Bestimmungsorten in der Schweiz oder die Durchreise nutzen. Nun weitet die Alliance SwissPass die Gültigkeit auf sämtliche Binnenreisen aus. Aufgenommene Flüchtlinge können vorerst bis am 31. Mai 2022 den öffentlichen Verkehr der Schweiz in 2. Klasse auf allen Strecken des GA-Anwendungsbereichs kostenlos nutzen.
 
 [Quelle](https://www.allianceswisspass.ch/de/tarife-vorschriften/tarifmassnahmen/Fluechtende-aus-der-Ukraine-duerfen-Schweizer-oeV-gratis-nutzen)
 
@@ -27,4 +25,3 @@ Telefons automatisch ein gültiges Ticket für Ihre Reise generiert. Sie brauche
 
 [![SBB Android App](/assets/img/googleplay.png)](https://play.google.com/store/apps/details?id=ch.sbb.mobile.android.b2c&hl=de_CH&gl=US)
 [![SBB iOS App](/assets/img/appstore.svg)](https://apps.apple.com/ch/app/sbb-mobile/id294855237)
-

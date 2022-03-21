@@ -2,7 +2,7 @@
 lang: de
 pageid: finance
 title: Finanzen, Zahlkarten & Banking
-tagline: 
+tagline:
 ---
 # {{ page.title }}
 
@@ -18,14 +18,14 @@ Bei der [Zürcher Kantonalbank ZKB](https://www.zkb.ch/de/hilfe/sc/wie-koennen-s
 
 
 ## Kreditkarten
-Kreditkarten können fast überall in der Schweiz verwendet werden. 
-Neben Kreditkarten sind auch direkte Überweisungen noch sehr verbreitet. 
+Kreditkarten können fast überall in der Schweiz verwendet werden.
+Neben Kreditkarten sind auch direkte Überweisungen noch sehr verbreitet.
 Für Instant Payments zwischen Personen und auch für den Online-Kauf von Waren verfügt die Schweiz zusätzlich über eine massgeschneiderte und weit verbreitete Lösung (Mobile App) namens TWINT.
 - [TWINT es einfach](https://www.twint.ch/?lang=de)
 
 
 ## Internationale Zahlungen
-Für internationale Zahlungen und um die Kontrolle über Ihre Kreditkartenzahlungen zu behalten, können wir revolut (RevolutApp) ebenfalls empfehlen. 
+Für internationale Zahlungen und um die Kontrolle über Ihre Kreditkartenzahlungen zu behalten, können wir revolut (RevolutApp) ebenfalls empfehlen.
 Revolut ist für Ukrainer verfügbar und bietet eine erweiterte Kontrolle über ihre Kreditkarte, sofortige Benachrichtigung über Zahlungen, Interbankenwechselkurse an Wochentagen und ist kostenlos.
 
 - [Revolut]({{ site.revolut }})[^referal]
