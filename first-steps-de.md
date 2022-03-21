@@ -6,7 +6,7 @@ tagline: Erste Schritte in der Schweiz, Anmeldung, Behörden
 ---
 # {{ page.title }}
 
-```mermaid
+```mermaid 
 pie title Pets adopted by volunteers
   "Dogs" : 386
   "Cats" : 85
