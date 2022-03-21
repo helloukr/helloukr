@@ -10,7 +10,7 @@ tagline: Mobiltelefonie, SIM-Karten und Internet Abos / Verträge
 Sunrise, Swisscom und Salt übernehmen vorübergehend die Kosten für Anrufe in die Ukraine und von der Ukraine in die Schweiz. Das Angebot ist teilweise befristet.
 - [Ukraine: **Sunrise UPC** erlässt Kosten für Anrufe](https://www.sunrise.ch/de/corporate-communications/medien/pressemitteilungen/newscontent.html#id=https://irpages2.eqs.com/websites/swissfeed/German/99/detail-page.html?newsId=1525da96-2864-4d42-9efa-3099f185a807)
 - [Gespräche in die und Roaming in der Ukraine kostenlos (**Swisscom**)](https://www.swisscom.ch/de/privatkunden/ukraine.html)
-- [**Salt** erlässt die Gebühren für Anrufe aus der Schweiz in die Ukraine (...) bis vorerst 15. März 2022.](https://twitter.com/SaltMobile_DE/status/1497299534627676170?cxt=HHwWlIC5vcz_vMcpAAAA)
+- [**Salt** erlässt die Gebühren für Anrufe aus der Schweiz in die Ukraine (...) bis zum 22. März 2022.](https://twitter.com/SaltMobile_DE/status/1505858098182959107?s=20&t=380-Dh63pnxIVwrUOgbwwQ)
 
 ## Kostenlose SIM Karte für ukrainische Flüchtlinge :fire:
 Für ukrainische Flüchtlinge, die den Flüchtlingsstatus S besitzen oder diesen beantragen wollen und mindestens 18 Jahre alt sind, gibt es von der Swisscom eine
