@@ -6,6 +6,12 @@ tagline: Erste Schritte in der Schweiz, Anmeldung, Behörden
 ---
 # {{ page.title }}
 
+```mermaid!
+pie title Pets adopted by volunteers
+  "Dogs" : 386
+  "Cats" : 85
+  "Rats" : 35
+```
 > In Überarbeitung
 
 ## Anmeldung / Schutzstatus S
