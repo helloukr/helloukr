@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 _site
 .sass-cache
 .jekyll-cache
@@ -17,3 +18,8 @@ ehthumbs_vista.db
 [Dd]esktop.ini
 
 .vscode/
+=======
+### Ignore Compiled Pages ###
+_site/
+assets/img/.DS_Store
+>>>>>>> Stashed changes
