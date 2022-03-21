@@ -40,19 +40,3 @@ Das müssen Sie aber nicht heute und morgen tun – Sie haben dafür bis zu 90 T
 - [Staatssekretariat für Migration SEM](https://www.sem.admin.ch/sem/de/home.html)
 - [Gesuch Schutzzstatus S (pdf)](https://www.sem.admin.ch/dam/sem/de/data/asyl/gesuch-schutzstatus-s.pdf.download.pdf/gesuch-schutzstatus-s-d.pdf)
 
-## Unterkunft
-- [Unterkunft]({{ site.baseurl }}/housing-{{ page.lang }}.html)
-
-## Gesundheit
-- [Gesundheit]({{ site.baseurl }}/health-{{ page.lang }}.html)
-
-## Kommunikation
-- [SIM Karten & Mobiltelefonie](mobile-de.html)
-
-## Transport / Verkehr
-- [Transport / Verkehr]({{ site.baseurl }}/transport-{{ page.lang }}.html)
-
-## Bankkonto
-- [Finanzen]({{ site.baseurl }}/finance-{{ page.lang }}.html)
-
-## Arbeiten
