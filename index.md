@@ -1,16 +1,26 @@
 ---
 lang: en
-pageid: hello
-title: Welcome - Willkommen - Ласкаво просимо
-tagline: Nützliche Informationen für Schutzsuchende aus der Ukraine
+pageid: index
+title: Welcome - Willkommen - Прошу
+tagline: Полезная информация для людей, ищущих защиты от Украины
 ---
 # {{ page.title }}
 
-## Ласкаво просимо
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+## Прошу
+HelloUkraine.ch дає біженцям з України цінні підказки та поради щодо успішного старту в Швейцарії.
+
+Веб-сайт у вільний час керують волонтери. Зміст ретельно зібраний, але не претендує на актуальність,
+фактичну правильність або повність; відповідна гарантія не надається.
+>>>>>>> 8f085df4487f1d803fda63276596bb060dd60396
 
 ## Willkommen
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+HelloUkraine.ch gibt Flüchtlingen aus der Ukraine wertvolle Hinweise und Tips für einen gelungenen Start in der Schweiz.
+
+Die Webseite wird von Freiwilligen in ihrer Freizeit gemanaged. Die Inhalte sind sorgfältig zusammengestellt, erheben aber
+keinen Anspruch auf Aktualität, sachliche Korrektheit oder Vollständigkeit; eine entsprechende Gewähr wird nicht übernommen.
 
 ## Welcome
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+HelloUkraine.ch gives refugees from Ukraine valuable hints and tips for a successful start in Switzerland.
+
+The website is managed by volunteers in their spare time. The contents are carefully compiled, but do not claim
+to be up-to-date, factually correct or complete; no corresponding guarantee is given.

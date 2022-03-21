@@ -6,21 +6,25 @@ tagline: Mobiltelefonie, SIM-Karten und Internet Abos / Verträge
 ---
 # {{ page.title }}
 
-> Sunrise, Swisscom und Salt übernehmen vorübergehend die Kosten für Anrufe in die Ukraine und von der Ukraine in die Schweiz. Das Angebot ist befristet, Termin abklären.
+## Roaming Kosten für Anrufe in die Ukraine aufgehoben :fire:
+Sunrise, Swisscom und Salt übernehmen vorübergehend die Kosten für Anrufe in die Ukraine und von der Ukraine in die Schweiz. Das Angebot ist teilweise befristet.
+- [Ukraine: **Sunrise UPC** erlässt Kosten für Anrufe](https://www.sunrise.ch/de/corporate-communications/medien/pressemitteilungen/newscontent.html#id=https://irpages2.eqs.com/websites/swissfeed/German/99/detail-page.html?newsId=1525da96-2864-4d42-9efa-3099f185a807)
+- [Gespräche in die und Roaming in der Ukraine kostenlos (**Swisscom**)](https://www.swisscom.ch/de/privatkunden/ukraine.html)
+- [**Salt** erlässt die Gebühren für Anrufe aus der Schweiz in die Ukraine (...) bis vorerst 15. März 2022.](https://twitter.com/SaltMobile_DE/status/1497299534627676170?cxt=HHwWlIC5vcz_vMcpAAAA)
 
-- [Kostenlose Anrufe in die Ukraine](https://www.blick.ch/wirtschaft/anrufe-und-roaming-kostenlos-swisscom-sunrise-und-salt-unterstuetzen-die-ukraine-id17279915.html)
-
-**Für ukrainische Flüchtlinge, die den Flüchtlingsstatus S besitzen oder diesen von Swisscom beantragen wollen, gibt es eine kostenlose SIM-Karte mit unbegrenztem Internet und unbegrenzten Anrufen im ganzen Land.**
-[Swisscom unterstützt Ukraine](https://www.swisscom.ch/de/privatkunden/ukraine-ukr.html)
+## Kostenlose SIM Karte für ukrainische Flüchtlinge :fire:
+Für ukrainische Flüchtlinge, die den Flüchtlingsstatus S besitzen oder diesen beantragen wollen und mindestens 18 Jahre alt sind, gibt es von der Swisscom eine
+kostenlose SIM-Karte mit unbegrenztem Internet und unbegrenzten Anrufen in der ganzen Schweiz.
+- [Swisscom unterstützt Ukraine](https://www.swisscom.ch/de/privatkunden/ukraine.html)
 
 ## SIM Karte & Mobilvertrag
 SIM-Karten in der Schweiz müssen mit einem **gültigen offiziellen Dokument** registriert werden. 
 Führerscheine werden nicht akzeptiert. Oft wird für die SIM-Karte eine Einrichtungsgebühr von bis zu CHF 40.- verlangt. 
-In der Schweiz gibt es drei grosse Netzwerkanbieter und eine Reihe kleinerer Dienstanbieter, welche eines dieser Netzwerke nutzen. 
+In der Schweiz gibt es drei grosse Netzwerkanbieter und eine Reihe kleinerer Dienstanbieter, welche jeweils eines dieser Netzwerke nutzen. 
 Salt, Sunrise und Swisscom sind die Netzbetreiber. Sunrise und Swisscom haben die beste Abdeckung, Salt hat in der Regel die günstigsten Angebote.
 
 ### Service Optionen
-Es gibt unterschiedliche Vertragsptionen, die von Prepaid-, Prepaid mit Surf oder Anrufoptionen bis hin zu postpaid Verträgen und Flatrates reichen.
+Es gibt unterschiedliche Vertragsptionen, die von Prepaid-, Prepaid mit Surf oder Anrufoptionen bis hin zu Postpaid Verträgen und Flatrates reichen.
 Auf den untenstehenden Seites können Sie verschiedene mobile Angebote vergleichen:
 
 - [Mobilangebote vergleichen](https://www.dschungelkompass.ch)
@@ -32,3 +36,9 @@ Auf den untenstehenden Seites können Sie verschiedene mobile Angebote vergleich
 - [Swisscom](https://www.swisscom.ch/en/residential.html)
 
 
+## Netzabdeckung der verschiedenen Netzwerkanbieter
+Die Netzabdeckungskarten zeigen wo mit welchem Provider der Empfang möglich ist. Prüfen Sie wenn möglich vor Abschluss eines Vertrages ob der Empfang in ihrer Unterkunft wirklich möglich ist.
+
+- [Salt Netzabdeckung](https://fiber.salt.ch/de/mobile/coverage)
+- [Sunrise Netzabdeckung](https://www.sunrise.ch/de/privatkunden/mobil-abos/mobilnetz/netzabdeckung/netzabdeckungskarte.html)
+- [Swisscom Netzabdeckung](https://scmplc.begasoft.ch/plcapp/pages/gis/netzabdeckung.jsf?netztyp=lte)
