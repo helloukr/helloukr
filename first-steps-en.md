@@ -6,21 +6,7 @@ tagline: First steps in Switzerland, registration, authorities
 ---
 # {{ page.title }}
 
-## First step in Switzerland
-
-> The content of this page is constantly being adapted and expanded.
-
-- Arrival
-- Registration / protection status
-- Accommodation
-- Communication / SIM card
-- Health
-- Transport
-- Finance / Banking
-- Work
-
-## Arrival
-
+> Under revision
 
 ## Registration / Protection Status S
 Switzerland is helping vulnerable people who have fled Ukraine quickly and unbureaucratically. All persons who were resident in Ukraine before February 24 receive the **protection status S** – there is no quota!
@@ -34,5 +20,5 @@ With the protection status "S", affected persons receive protection in Switzerla
 To do this, you must register at a federal asylum centre.
 But you don't have to do that today and tomorrow – you have up to 90 days to do so. **After submitting the application, the person seeking protection has health insurance.**
 
+- [Application for protection status S (pdf) :fire:](https://www.sem.admin.ch/dam/sem/de/data/asyl/gesuch-schutzstatus-s.pdf.download.pdf/gesuch-schutzstatus-s-d.pdf)
 - [State Secretariat for Migration SEM](https://www.sem.admin.ch/sem/en/home.html)
-- [Application for protection status S (pdf)](https://www.sem.admin.ch/dam/sem/de/data/asyl/gesuch-schutzstatus-s.pdf.download.pdf/gesuch-schutzstatus-s-d.pdf)
