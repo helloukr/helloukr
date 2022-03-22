@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 gem 'rdiscount'
 gem 'jemoji'
-#gem 'jekyll-spaceship'
+gem 'jekyll-spaceship'
 
 
 # Hello! This is where you manage which Jekyll version is used to run.

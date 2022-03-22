@@ -16,3 +16,5 @@ defaults:
 
 plugins:
   - jemoji
+  - jekyll-spaceship
+  
