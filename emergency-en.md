@@ -11,9 +11,11 @@ The following telephone numbers can be used to call the emergency services throu
 In telephone booths, the emergency numbers can be dialed free of charge.
 With mobile phones, they can also be dialed directly and **without area code** free of charge.
 
-> The European emergency number **112** also works in Switzerland. It leads directly to the nearest emergency center.
-
 > In Switzerland 911 is **no emergency number**
+
+## Emergency | 112
+The European emergency number **112** also works in Switzerland. 
+It connects directly to the nearest emergency center.
 
 ## Police | 117
 You need help? You can call the police on phone **117**:

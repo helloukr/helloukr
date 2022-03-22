@@ -11,9 +11,11 @@ tagline: Notfall Nummern und Rettungsdienste in der Schweiz
 In Telefonkabinen bzw. von Publifonen können die Notrufnummern kostenlos angewählt werden. 
 Mit Mobiltelefonen können sie direkt und **ohne Vorwahl** ebenfalls gratis angewählt werden. 
 
-> Die europäische Notrufnummer **112**  funktioniert auch in der Schweiz. Sie führt direkt zur nächsten Einsatzzentrale.
-
 > Die Nummer 911 ist **keine Notrufnummer** in der Schweiz.
+
+## Notfall | 112
+Die europäische Notrufnummer **112**  funktioniert auch in der Schweiz. 
+Sie führt direkt zur nächsten Einsatzzentrale.
 
 ## Polizei | 117
 Sie brauchen Hilfe? Die Polizei erreichen Sie unter **117** :
