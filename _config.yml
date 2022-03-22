@@ -14,7 +14,7 @@ defaults:
     values:
       layout: "default"
 
+  
 plugins:
   - jemoji
   - jekyll-spaceship
-  
