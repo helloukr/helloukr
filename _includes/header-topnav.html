@@ -2,11 +2,11 @@
     <a href="{{ site.url }}{{ site.baseurl }}">HOME</a> |
     {% for item in site.data.topnav %}
       {% if page.lang=="de" %}
-        <a href="{{ item.pagebase }}-de.html">{{ item.de }}</a>
+        <a href="{{ item.pagebase }}-de.html" target="_self">{{ item.de }}</a>
       {% elsif page.lang=="uk" %}
-        <a href="{{ item.pagebase }}-uk.html">{{ item.uk }}</a>
+        <a href="{{ item.pagebase }}-uk.html" target="_self">{{ item.uk }}</a>
       {% else %}
-        <a href="{{ item.pagebase }}-en.html">{{ item.en }}</a>
+        <a href="{{ item.pagebase }}-en.html" target="_self">{{ item.en }}</a>
       {% endif %}
       {% if forloop.last != True %} | {% endif %}
     {% endfor %}
