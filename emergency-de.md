@@ -41,3 +41,6 @@ Bei Vergiftungsverdacht das Tox-Zentrum unter Telefon **145** anrufen. Versuchen
 - **Wieviel** - Versuchen Sie, die maximal mögliche aufgenommene Menge abzuschätzen.
 - **Wann** - Versuchen Sie, die seit dem Vorfall verstrichene Zeit abzuschätzen.
 - **Was noch** - Erste beobachtete Symptome? Erste getroffene Massnahmen?
+
+## Sorgentelefon | 143
+Tel **143** - Die Dargebotene Hand ist rund um die Uhr da für Menschen, die ein helfendes und unterstützendes Gespräch benötigen. Tel 143 ist eine Notrufnummer nicht nur für Menschen in massiven Krisen. Das Schweizer Sorgentelefon bietet Anrufenden völlige Anonymität. 

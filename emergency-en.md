@@ -43,3 +43,6 @@ Try to provide the following information:
 - **How much** - Try to estimate the maximum amount ingested.
 - **When** - Try to estimate the time elapsed since the incident.
 - **What else** - First symptoms observed? First measures taken?
+
+## Sorrow Phone | 143
+Tel **143** - The "Helping Hand" Line is there around the clock for people who need a helping and supportive conversation. Tel 143 is an emergency number not only for people in massive crises. The Swiss helpline offers callers complete anonymity. 
