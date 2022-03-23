@@ -2,11 +2,11 @@
 lang: de
 pageid: first-steps
 title: Erste Schritte / Anmeldung
-tagline: Erste Schritte in der Schweiz, Anmeldung, Behörden
+tagline: Erste Schritte in der Schweiz, Anmeldung, Behörden & Ablauf
 ---
 # {{ page.title }}
+[![Verfahren für Schutzsuchende aus der Ukraine (S-Status)](/assets/img/flowchart-{{ page.lang }}.png)](https://www.sem.admin.ch/dam/sem/de/data/asyl/faktenblatt-zusammenarbeit-bund-kantone.pdf.download.pdf/faktenblatt-zusammenarbeit-bund-kantone-d.pdf)
 
-> In Überarbeitung
 
 ## Anmeldung / Schutzstatus S
 Die Schweiz hilft schutzbedürftigen Personen, die aus der Ukraine geflüchtet sind, schnell und unbürokratisch.

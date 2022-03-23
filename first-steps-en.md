@@ -2,11 +2,10 @@
 lang: en
 pageid: first-steps
 title: Getting Started / Registration
-tagline: First steps in Switzerland, registration, authorities
+tagline: First steps in Switzerland, registration, authorities & procedure
 ---
 # {{ page.title }}
-
-> Under revision
+[![Procedure for those seeking Protection originating from Ukraine (S-Status)](/assets/img/flowchart-{{ page.lang }}.png)](https://www.sem.admin.ch/dam/sem/de/data/asyl/faktenblatt-zusammenarbeit-bund-kantone.pdf.download.pdf/faktenblatt-zusammenarbeit-bund-kantone-d.pdf)
 
 ## Registration / Protection Status S
 Switzerland is helping vulnerable people who have fled Ukraine quickly and unbureaucratically. All persons who were resident in Ukraine before February 24 receive the **protection status S** – there is no quota!
