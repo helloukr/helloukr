@@ -1,4 +1,7 @@
 <!-- beg: head-custom.html -->
+{% if page.options contains 'awesome' %}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+{% endif %}
 {% if page.options contains 'mermaid' %}
 <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
 {% endif %}

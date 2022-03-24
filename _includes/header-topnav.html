@@ -1,15 +1,15 @@
-<p style="padding: 1rem 6rem; margin: 0 auto;">
-    <a href="{{ site.url }}{{ site.baseurl }}" target="_self">HOME</a> |
-    {% for item in site.data.topnav %}
-      {% if page.lang=="de" %}
-        <a href="{{ item.pagebase }}-de.html" target="_self">{{ item.de }}</a>
-      {% elsif page.lang=="uk" %}
-        <a href="{{ item.pagebase }}-uk.html" target="_self">{{ item.uk }}</a>
-        {% elsif page.lang=="ru" %}
-        <a href="{{ item.pagebase }}-ru.html" target="_self">{{ item.ru }}</a>
-        {% else %}
-        <a href="{{ item.pagebase }}-en.html" target="_self">{{ item.en }}</a>
-      {% endif %}
-      {% if forloop.last != true %} | {% endif %}
-    {% endfor %}
-</p>
+<nav class="topnav">
+<a href="{{ site.url }}{{ site.baseurl }}" target="_self">HOME</a> | 
+{% for item in site.data.topnav %}
+  {% if page.lang=="de" %}
+    <a href="{{ item.pagebase }}-de.html" target="_self">{{ item.de }}</a>
+  {% elsif page.lang=="uk" %}
+    <a href="{{ item.pagebase }}-uk.html" target="_self">{{ item.uk }}</a>
+    {% elsif page.lang=="ru" %}
+    <a href="{{ item.pagebase }}-ru.html" target="_self">{{ item.ru }}</a>
+    {% else %}
+    <a href="{{ item.pagebase }}-en.html" target="_self">{{ item.en }}</a>
+  {% endif %}
+  {% if forloop.last != true %} | {% endif %}
+{% endfor %}
+</nav>

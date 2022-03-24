@@ -14,7 +14,6 @@
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
     {% include header-topnav.html %}
-
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title }}</h1>
       <h2 class="project-tagline">{{ page.tagline | default: site.tagline }}</h2>
@@ -29,7 +28,12 @@
       {{ content }}
 
       <footer class="site-footer">
-        <span class="site-footer-credits">provided by volunteers | {{ site.time }} | {{ site.baseurl }}</a></span>
+        <span class="site-footer-credits">
+          <a href="/about-{{ page.lang }}" target="_self">About</a> |
+          <a href="{{ site.contactform }}" target="_blank">Contact</a> |
+          Provided by volunteers | 
+          {{ page.date | date_to_long_string }}
+        </span>
       </footer>
     </main>
     {% include footer-custom.html %}
