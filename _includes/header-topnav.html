@@ -5,7 +5,9 @@
         <a href="{{ item.pagebase }}-de.html" target="_self">{{ item.de }}</a>
       {% elsif page.lang=="uk" %}
         <a href="{{ item.pagebase }}-uk.html" target="_self">{{ item.uk }}</a>
-      {% else %}
+        {% elsif page.lang=="ru" %}
+        <a href="{{ item.pagebase }}-ru.html" target="_self">{{ item.uk }}</a>
+        {% else %}
         <a href="{{ item.pagebase }}-en.html" target="_self">{{ item.en }}</a>
       {% endif %}
       {% if forloop.last != true %} | {% endif %}
