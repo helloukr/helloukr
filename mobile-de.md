@@ -2,7 +2,7 @@
 lang: de
 pageid: mobile
 title: SIM Karten & Mobiltelefonie
-tagline: Mobiltelefonie, SIM-Karten und Internet Abos / Verträge
+description: Mobiltelefonie, SIM-Karten und Internet Abos / Verträge
 ---
 # {{ page.title }}
 

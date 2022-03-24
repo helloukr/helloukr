@@ -2,7 +2,7 @@
 lang: de
 pageid: index
 title: Willkommen
-tagline: Nützliche Informationen für Schutzsuchende aus der Ukraine
+description: Nützliche Informationen für Schutzsuchende aus der Ukraine
 ---
 # {{ page.title }}
 

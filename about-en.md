@@ -2,7 +2,7 @@
 lang: en
 pageid: about
 title: Imprint
-tagline: Who are we
+description: Who are we
 ---
 # {{ page.title }}
 

@@ -2,7 +2,7 @@
 lang: de
 pageid: health
 title: Gesundheit
-tagline: Gesundheit und Gesundheitsversorgung in der Schweiz
+description: Gesundheit und Gesundheitsversorgung in der Schweiz
 ---
 # {{ page.title }}
 

@@ -2,7 +2,7 @@
 lang: de
 pageid: first-steps
 title: Erste Schritte / Anmeldung
-tagline: Erste Schritte in der Schweiz, Anmeldung, Behörden & Ablauf
+description: Erste Schritte in der Schweiz, Anmeldung, Behörden & Ablauf
 ---
 # {{ page.title }}
 [![Verfahren für Schutzsuchende aus der Ukraine (S-Status)](/assets/img/flowchart-{{ page.lang }}.png)](https://www.sem.admin.ch/dam/sem/de/data/asyl/faktenblatt-zusammenarbeit-bund-kantone.pdf.download.pdf/faktenblatt-zusammenarbeit-bund-kantone-d.pdf)

@@ -2,7 +2,7 @@
 lang: en
 pageid: housing
 title: Accommodation of Ukrainian refugees
-tagline: Information and recommendations for refugees and helpers
+description: Information and recommendations for refugees and helpers
 ---
 # {{ page.title }}
 

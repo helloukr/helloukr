@@ -2,7 +2,7 @@
 lang: uk
 pageid: about
 title: Про нас
-tagline: Хто ми такі
+description: Хто ми такі
 ---
 # {{ page.title }}
 

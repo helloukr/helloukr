@@ -2,7 +2,7 @@
 lang: en
 pageid: emergency
 title: Emergency
-tagline: Emergency Numbers and Emergency Services in Switzerland
+description: Emergency Numbers and Emergency Services in Switzerland
 ---
 # {{ page.title }}
 

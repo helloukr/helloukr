@@ -2,7 +2,7 @@
 lang: de
 pageid: housing
 title: Unterbringung von ukrainischen Geflüchteten
-tagline: Informationen und Empfehlungen für Flüchtlinge und Helfende
+description: Informationen und Empfehlungen für Flüchtlinge und Helfende
 ---
 # {{ page.title }}
 

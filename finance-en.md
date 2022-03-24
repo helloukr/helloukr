@@ -2,7 +2,7 @@
 lang: en
 pageid: finance
 title: Finance, Payment Cards & Banking
-tagline:
+description: Finance, Payments, and Swiss francs
 ---
 # {{ page.title }}
 

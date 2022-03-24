@@ -2,7 +2,7 @@
 lang: de
 pageid: glossary
 title: Stichwortverzeichnis
-tagline: Abkürzungen und häufige Begriffe
+description: Abkürzungen und häufige Begriffe
 ---
 # {{ page.title }}
 

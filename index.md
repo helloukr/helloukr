@@ -2,7 +2,7 @@
 lang: en
 pageid: index
 title: Welcome - Willkommen - Прошу
-tagline: Полезная информация для людей, ищущих защиты от Украины
+description: Полезная информация для людей, ищущих защиты от Украины
 ---
 # {{ page.title }}
 

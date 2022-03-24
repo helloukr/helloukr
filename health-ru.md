@@ -2,7 +2,7 @@
 lang: ru
 pageid: health
 title: Здоровье
-tagline: Здоровье и здравоохранение в Швейцарии
+description: Здоровье и здравоохранение в Швейцарии
 ---
 # {{ page.title }}
 

@@ -2,7 +2,7 @@
 lang: de
 pageid: about
 title: Impressum
-tagline: Wer sind wir
+description: Wer sind wir
 ---
 # {{ page.title }}
 

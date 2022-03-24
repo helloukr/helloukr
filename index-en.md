@@ -2,7 +2,7 @@
 lang: en
 pageid: index
 title: Welcome
-tagline: Useful information for those from Ukraine seeking protection
+description: Useful information for those from Ukraine seeking protection
 
 ---
 # {{ page.title }}

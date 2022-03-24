@@ -2,7 +2,7 @@
 lang: en
 pageid: first-steps
 title: Getting Started / Registration
-tagline: First steps in Switzerland, registration, authorities & procedure
+description: First steps in Switzerland, registration, authorities & procedure
 ---
 # {{ page.title }}
 [![Procedure for those seeking Protection originating from Ukraine (S-Status)](/assets/img/flowchart-{{ page.lang }}.png)](https://www.sem.admin.ch/dam/sem/de/data/asyl/faktenblatt-zusammenarbeit-bund-kantone.pdf.download.pdf/faktenblatt-zusammenarbeit-bund-kantone-d.pdf)

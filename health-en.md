@@ -2,7 +2,7 @@
 lang: en
 pageid: health
 title: Health
-tagline: Health care in Switzerland
+description: Health care in Switzerland
 ---
 # {{ page.title }}
 

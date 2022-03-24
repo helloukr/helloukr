@@ -2,7 +2,7 @@
 lang: de
 pageid: finance
 title: Finanzen, Zahlkarten & Banking
-tagline:
+description: Finanzen, Bankkonto, Schweizerfranken
 ---
 # {{ page.title }}
 

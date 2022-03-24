@@ -2,7 +2,7 @@
 lang: en
 pageid: transport
 title: Public transport
-tagline: Public transport in Switzerland
+description: Public transport in Switzerland
 ---
 # {{ page.title }}
 

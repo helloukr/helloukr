@@ -2,7 +2,7 @@
 lang: en
 pageid: mobile
 title: SIM Cards & mobile subscriptions
-tagline: Mobile and Internet provider and how to get a subscription
+description: Mobile and Internet provider and how to get a subscription
 ---
 # {{ page.title }}
 

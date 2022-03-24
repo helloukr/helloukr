@@ -2,7 +2,7 @@
 lang: de
 pageid: emergency
 title: Notfall
-tagline: Notfall Nummern und Rettungsdienste in der Schweiz
+description: Notfall Nummern und Rettungsdienste in der Schweiz
 ---
 # {{ page.title }}
 

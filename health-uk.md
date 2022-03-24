@@ -2,7 +2,7 @@
 lang: uk
 pageid: health
 title: Охорона здоров'я 
-tagline: Охорона здоров'я Швейцарії
+description: Охорона здоров'я Швейцарії
 ---
 # {{ page.title }}
 

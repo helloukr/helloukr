@@ -2,7 +2,7 @@
 lang: ru
 pageid: finance
 title: Финансы, платежные карты и банковские услуги
-tagline:
+description:
 ---
 # {{ page.title }}
 

@@ -2,7 +2,7 @@
 lang: ru
 pageid: about
 title: Выходные сведения
-tagline: Кто мы такие
+description: Кто мы такие
 ---
 # {{ page.title }}
 

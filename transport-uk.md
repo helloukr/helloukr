@@ -2,7 +2,7 @@
 lang: uk
 pageid: transport
 title: Громадський транспорт
-tagline: Громадський транспорт Швейцарії
+description: Громадський транспорт Швейцарії
 ---
 # {{ page.title }}
 

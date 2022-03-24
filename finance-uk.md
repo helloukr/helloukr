@@ -2,7 +2,7 @@
 lang: uk
 pageid: finance
 title: Фінанси, платіжні картки та банки
-tagline: 
+description: 
 ---
 # {{ page.title }}
 
