@@ -5,8 +5,7 @@ title: Початок роботи / Реєстрація
 description: Перші кроки в Швейцарії, реєстрація, органи влади
 ---
 # {{ page.title }}
-
-> Переглядається
+[![Процедури для тих, хто шукає захисту з України (S-cтатус)](/assets/img/flowchart-{{ page.lang }}.png)](https://www.sem.admin.ch/dam/sem/de/data/asyl/faktenblatt-zusammenarbeit-bund-kantone.pdf.download.pdf/faktenblatt-zusammenarbeit-bund-kantone-d.pdf)
 
 ### Статус реєстрації / захисту
 Швейцарія допомагає біженцям з України, швидко і без всякої бюрократії.
