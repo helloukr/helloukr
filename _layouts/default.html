@@ -29,10 +29,11 @@
 
       <footer class="site-footer">
         <span class="site-footer-credits">
+          {{ site.time | date_to_string }} |
           <a href="/about-{{ page.lang }}" target="_self">About</a> |
           <a href="{{ site.contactform }}" target="_blank">Contact</a> |
-          Provided by volunteers | 
-          {{ page.date | date_to_long_string }}
+          Created by volunteers
+          
         </span>
       </footer>
     </main>
