@@ -1,32 +1,40 @@
 - en: First-Steps
   de: Erste Schritte
   uk: Знайомство
+  ru: Первые шаги
   pagebase: /first-steps
 - en: Accomodation
   de: Unterkunft
   uk: Проживання
+  ru: Проживание
   pagebase: /housing
 - en: Mobile/SIM
   de: Mobile/SIM
   uk: Мобільний/SIM
+  ru: Мобильный/ SIM
   pagebase: /mobile
 - en: Health
   de: Gesundheit
   uk: Здоров'я
+  ru: Здоровье
   pagebase: /health
 - en: Transport
   de: Verkehr
   uk: Трафік
+  ru: Трафик
   pagebase: /transport
 - en: Finance
   de: Finanzen
   uk: Фінанси
+  ru: Финансы
   pagebase: /finance
 - en: Emergency
   de: Notfall
   uk: Надзвичайних
+  ru: чрезвычайная ситуация
   pagebase: /emergency
 - en: About
   de: About
   uk: About
+  ru: About
   pagebase: /about    
