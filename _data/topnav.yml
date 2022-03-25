@@ -11,7 +11,7 @@
 - en: Mobile/SIM
   de: Mobile/SIM
   uk: Мобільний/SIM
-  ru: Мобильный/ SIM
+  ru: Мобильный/SIM
   pagebase: /mobile
 - en: Health
   de: Gesundheit
@@ -21,7 +21,7 @@
 - en: Transport
   de: Verkehr
   uk: Трафік
-  ru: Трафик
+  ru: Транспорт
   pagebase: /transport
 - en: Finance
   de: Finanzen
@@ -31,6 +31,6 @@
 - en: Emergency
   de: Notfall
   uk: Надзвичайних
-  ru: чрезвычайная ситуация
+  ru: Чрезвычайная ситуация
   pagebase: /emergency
   
