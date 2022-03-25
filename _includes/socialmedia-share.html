@@ -1,0 +1,10 @@
+{% if page.lang=="de" %}
+  {{ site.twitter.de }}
+{% elsif page.lang=="uk" %}
+  {{ site.twitter.uk }}
+{% elsif page.lang=="ru" %}
+  {{ site.twitter.ru }}
+{% else %}
+  {{ site.twitter.en }}
+{% endif %}
+

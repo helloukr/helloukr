@@ -17,24 +17,22 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title }}</h1>
       <h2 class="project-tagline">{{ page.tagline | default: site.tagline }}</h2>
-
       <a href="{{ site.baseurl }}{{ page.pageid }}-uk.html" target="_self" class="btn">українська</a>
 	    <a href="{{ site.baseurl }}{{ page.pageid }}-ru.html" target="_self" class="btn">Русский</a>
       <a href="{{ site.baseurl }}{{ page.pageid }}-en.html" target="_self" class="btn">English</a>
       <a href="{{ site.baseurl }}{{ page.pageid }}-de.html" target="_self" class="btn">Deutsch</a>
     </header>
-
+    
     <main id="content" class="main-content" role="main">
+      <center>{% include socialmedia-share.html %}</center>
       {{ content }}
-
       <footer class="site-footer">
-        <span class="site-footer-credits">
+        <p class="site-footer-credits">
           {{ site.time | date_to_string }} |
           <a href="/about-{{ page.lang }}" target="_self">About</a> |
           <a href="{{ site.contactform }}" target="_blank">Contact</a> |
           Created by volunteers
-          
-        </span>
+        </p>
       </footer>
     </main>
     {% include footer-custom.html %}
