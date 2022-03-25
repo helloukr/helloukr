@@ -22,7 +22,7 @@ description: Abkürzungen und häufige Begriffe
 ## Begriffe
 
 | **Begriffe**         | **Erklärung** |
-| Schutzstatus S       | Aufenthaltsrech mit provisorischem Schutz in der Schweiz, ohne ein ordentliches Asylverfahren durchzulaufen [https://www.admin.ch](https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen/bundesrat.msg-id-87448.html) |
+| Schutzstatus S       | Aufenthaltsrecht mit provisorischem Schutz in der Schweiz, ohne ein ordentliches Asylverfahren durchzulaufen [https://www.admin.ch](https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen/bundesrat.msg-id-87448.html) |
 
 
 

@@ -2,11 +2,11 @@
 lang: de
 pageid: emergency
 title: Notfall
-description: Notfall Nummern und Rettungsdienste in der Schweiz
+description: Notfallnummern und Rettungsdienste in der Schweiz
 ---
 # {{ page.title }}
 
-## Notfall Nummern
+## Notfallnummern
 Über die folgenden Telefonnummern können in der ganzen Schweiz und im Fürstentum Liechtenstein die kantonalen Rettungsdienste angerufen werden.‌‌ 
 In Telefonkabinen bzw. von Publifonen können die Notrufnummern kostenlos angewählt werden. 
 Mit Mobiltelefonen können sie direkt und **ohne Vorwahl** ebenfalls gratis angewählt werden. 
@@ -19,8 +19,8 @@ Sie führt direkt zur nächsten Einsatzzentrale.
 
 ## Polizei | 117
 Sie brauchen Hilfe? Die Polizei erreichen Sie unter **117** :
-- Warten bis die Polizei kommt, nicht eingreifen
-- Genau beobachten, damit Sie der Polizei Angaben (z.B. über Personen) machen können
+- Warten bis die Polizei kommt, nicht eingreifen.
+- Genau beobachten, damit Sie der Polizei Angaben (z.B. über Personen) machen können.
 
 ## Feuerwehr | 118
 Es brennt? Die Feuerwehr erreichen Sie unter **118** :
@@ -36,11 +36,11 @@ Falls ein medizinischer Notfall eintritt, erreichen Sie die Sanität unter **144
 
 ## Vergiftung | 145
 Bei Vergiftungsverdacht das Tox-Zentrum unter Telefon **145** anrufen. Versuchen Sie, die folgenden Informationen zu liefern:
-- **Wer** - Alter, Gewicht, Geschlecht der betreffenden Person, Telefonnummer für Rückruf.
-- **Was** - Alles was Sie über das beteiligte Mittel sagen können.
-- **Wieviel** - Versuchen Sie, die maximal mögliche aufgenommene Menge abzuschätzen.
-- **Wann** - Versuchen Sie, die seit dem Vorfall verstrichene Zeit abzuschätzen.
-- **Was noch** - Erste beobachtete Symptome? Erste getroffene Massnahmen?
+- **Wer** – Alter, Gewicht, Geschlecht der betreffenden Person, Telefonnummer für Rückruf.
+- **Was** – Alles, was Sie über das beteiligte Mittel sagen können.
+- **Wieviel** – Versuchen Sie, die maximal mögliche aufgenommene Menge abzuschätzen.
+- **Wann** – Versuchen Sie, die seit dem Vorfall verstrichene Zeit abzuschätzen.
+- **Was noch** – Erste beobachtete Symptome? Erste getroffene Massnahmen?
 
 ## Sorgentelefon | 143
-Tel **143** - Die Dargebotene Hand ist rund um die Uhr da für Menschen, die ein helfendes und unterstützendes Gespräch benötigen. Tel 143 ist eine Notrufnummer nicht nur für Menschen in massiven Krisen. Das Schweizer Sorgentelefon bietet Anrufenden völlige Anonymität. 
+Tel **143** – Die Dargebotene Hand ist rund um die Uhr da für Menschen, die ein helfendes und unterstützendes Gespräch benötigen. Tel 143 ist eine Notrufnummer nicht nur für Menschen in massiven Krisen. Das Schweizer Sorgentelefon bietet Anrufenden völlige Anonymität. 

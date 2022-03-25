@@ -8,12 +8,12 @@ description: Finanzen, Bankkonto, Schweizerfranken
 
 ## Die Währung
 #### Der Schweizerfranken
-Der Schweizer Franken (auch Schweizerfranken) geschrieben, ist die Währung der Schweizerischen Eidgenossenschaft und des Fürstentums Liechtenstein. Er wird von der Schweizerischen Nationalbank herausgegeben und wird in 100 Rappen  unterteilt. Seine Abkürzung nach ISO 4217 ist **CHF**, auf Deutsch **Fr.**, in den anderen Sprachen **fr.**
+Der Schweizer Franken (auch Schweizerfranken geschrieben) ist die Währung der Schweizerischen Eidgenossenschaft und des Fürstentums Liechtenstein. Er wird von der Schweizerischen Nationalbank herausgegeben und in 100 Rappen  unterteilt. Seine Abkürzung nach ISO 4217 ist **CHF**, auf Deutsch **Fr.**, in den anderen Sprachen **fr.**
 
 ![Banknoten der Schweiz](/assets/img/banknoten.jpg)
 
 
-## Bankkonto Eröffnen :fire:
+## Bankkonto eröffnen :fire:
 Bei der [Zürcher Kantonalbank ZKB](https://www.zkb.ch/de/hilfe/sc/wie-koennen-schutzbeduerftige-aus-der-ukraine-ein-konto-bei-der-.html) können Schutzbedürftige mit dem Pass und dem Ausweis S ein Schweizer Bankkonto für den Lebensunterhalt eröffnen.
 
 
