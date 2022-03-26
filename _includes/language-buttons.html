@@ -1,0 +1,17 @@
+
+{% assign lang1 = "-" | append: page.lang | append: "." %}
+{% assign url_en = page.url | replace_first: lang1, "-en." %}
+{% assign url_de = page.url | replace_first: lang1, "-de." %}
+{% assign url_uk = page.url | replace_first: lang1, "-uk." %}
+{% assign url_rh = page.url | replace_first: lang1, "-ru." %}
+{% if page.name %}
+    <a href="{{ site.baseurl }}{{ page.pageid }}-uk.html" target="_self" class="btn">Українська</a>
+    <a href="{{ site.baseurl }}{{ page.pageid }}-ru.html" target="_self" class="btn">Русский</a>
+    <a href="{{ site.baseurl }}{{ page.pageid }}-en.html" target="_self" class="btn">English</a>
+    <a href="{{ site.baseurl }}{{ page.pageid }}-de.html" target="_self" class="btn">Deutsch</a>
+{% else %}
+    <a href="{{ url_uk }}" target="_self">Українська</a> |
+    <a href="{{ url_ru }}" target="_self">Русский</a> |
+    <a href="{{ url_en }}" target="_self">English</a> |
+    <a href="{{ url_de }}" target="_self">Deutsch</a>
+{% endif %}

@@ -1,0 +1,21 @@
+<nav id="hamnav">
+    <!-- (B) THE HAMBURGER -->
+    <label for="hamburger">&#9776;</label>
+    <input type="checkbox" id="hamburger"/>
+   
+    <!-- (C) MENU ITEMS -->
+    <div id="hamitems">
+      <a href="{{ site.url }}{{ site.baseurl }}" target="_self">HOME</a>
+      {% for item in site.data.topnav %}
+        {% if page.lang=="de" %}
+          <a href="{{ item.pagebase }}-de.html" target="_self">{{ item.de }}</a>
+        {% elsif page.lang=="uk" %}
+          <a href="{{ item.pagebase }}-uk.html" target="_self">{{ item.uk }}</a>
+          {% elsif page.lang=="ru" %}
+          <a href="{{ item.pagebase }}-ru.html" target="_self">{{ item.ru }}</a>
+          {% else %}
+          <a href="{{ item.pagebase }}-en.html" target="_self">{{ item.en }}</a>
+        {% endif %}
+      {% endfor %}
+    </div>  
+  </nav>

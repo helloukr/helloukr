@@ -13,14 +13,11 @@
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
-    {% include header-topnav.html %}
+    {% include header-topnav-2.html %}
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title }}</h1>
       <h2 class="project-tagline">{{ page.tagline | default: site.tagline }}</h2>
-      <a href="{{ site.baseurl }}{{ page.pageid }}-uk.html" target="_self" class="btn">Українська</a>
-      <a href="{{ site.baseurl }}{{ page.pageid }}-ru.html" target="_self" class="btn">Русский</a>
-      <a href="{{ site.baseurl }}{{ page.pageid }}-en.html" target="_self" class="btn">English</a>
-      <a href="{{ site.baseurl }}{{ page.pageid }}-de.html" target="_self" class="btn">Deutsch</a>
+      {% include language-buttons.html %}
     </header>
     
     <main id="content" class="main-content" role="main">

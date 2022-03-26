@@ -24,12 +24,12 @@ $section-headings-color: #0057b7 !default;
  opacity: 1;
  }
  
- .btn {
- color: #fff;
- background-color: #0057b7;
- }
+.btn {
+  color: #fff;
+  background-color: #0057b7;
+}
 
-// Top Navigation
+// Top Navigation Version-1
 .topnav {
   word-wrap: break-word;
 
@@ -49,4 +49,60 @@ $section-headings-color: #0057b7 !default;
     padding: 0.5rem 1rem;
     font-size: 1rem;
   }
+}
+
+// Top Navigation Version-2
+// Hamburger Topnav Menu - https://code-boxx.com/simple-responsive-pure-css-hamburger-menu/
+#hamnav {
+    width: 100%;
+    background: #0057b7;
+    border-bottom: 1px solid white;
+}
+/* (B) HORIZONTAL MENU ITEMS */
+#hamitems { display: flex; }
+#hamitems a {
+  flex-grow: 1;
+  flex-basis: 0;
+  padding: 2px;
+  color: white;
+  font-size: 0.9em;
+  text-decoration: none;
+  text-align: center;
+  border-right: 1px solid white;
+}
+#hamitems a:hover { 
+    color: #0057b7;
+    background: #ffd700; 
+}
+
+/* (C) HIDE HAMBURGER */
+#hamnav label, #hamburger { display: none; }
+
+/* [ON SMALL SCREENS] */
+@media screen and (max-width: 768px){
+  /* (A) BREAK INTO VERTICAL MENU */
+  #hamitems a {
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    border-top: 1px solid #ffd700;
+  }
+ 
+  /* (B) SHOW HAMBURGER ICON */
+  #hamnav label { 
+    display: inline-block; 
+    color: white;
+    background: #ffd700;
+    font-style: normal;
+    font-size: 0.9em;
+    padding: 5px;
+  }
+
+  /* (C) TOGGLE SHOW/HIDE MENU */
+  #hamitems { display: none; }
+  #hamnav input:checked ~ #hamitems { display: block; }
+}
+#hamnav {
+  position: sticky;
+  top: 0;
 }
