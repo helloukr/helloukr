@@ -2,7 +2,7 @@
 lang: uk
 pageid: first-steps
 title: Початок роботи / Реєстрація
-description: Перші кроки в Швейцарії, реєстрація, органи влади
+description: Перші кроки в Швейцарії, реєстрація та органи влади
 ---
 # {{ page.title }}
 [![Процедури для тих, хто шукає захисту з України (S-cтатус)](/assets/img/flowchart-{{ page.lang }}.png)](https://www.sem.admin.ch/dam/sem/de/data/asyl/faktenblatt-zusammenarbeit-bund-kantone.pdf.download.pdf/faktenblatt-zusammenarbeit-bund-kantone-d.pdf)
