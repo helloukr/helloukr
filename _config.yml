@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 domain: www.helloukraine.ch      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: http://www.helloukraine.ch
+url: https://www.helloukraine.ch
 baseurl: /
 
 title: Hello Ukraine
@@ -9,14 +9,15 @@ description: "..."
 revolut: https://www.revolut.com/referral/pascal30y!MAR1-22-AR
 contactform: https://forms.zohopublic.eu/helloukrainech/form/Contact/formperma/0BLf1QF03ZRSGTgvQgJfUay_IhGAagmouP6iTl387Vo
 
+# Social Media Share: Default Messages
+# Hint: https://sharelinkgenerator.com/
+# Default for facebook is {{ site/url }}
+socialshare:
+  de: "Portal mit Tipps für Flüchtlinge aus der Ukraine zu einem gelungenen Start in der Schweiz https://www.HelloUkraine.ch #StandWithUkraine"
+  uk: "Портал з порадами для біженців з України про успішний старт у Швейцарії https://www.HelloUkraine.ch #StandWithUkraine"
+  ru: "Портал с советами для беженцев из Украины об успешном старте в Швейцарии https://www.HelloUkraine.ch #StandWithUkraine"
+  en: "Portal with tips for refugees from Ukraine on a successful start in Switzerland https://www.HelloUkraine.ch #StandWithUkraine"
 
-twitter:
-  setup: https://publish.twitter.com/?buttonType=TweetButton&widget=Button
-  text: https://www.HelloUkraine.ch Portal mit Tipps für Flüchtlinge aus der Ukraine zu einem gelungenen Start in der Schweiz #StandWithUkraine
-  de: <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Portal mit Tipps für Flüchtlinge aus der Ukraine zu einem gelungenen Start in der Schweiz" data-url="https://www.HelloUkraine.ch" data-hashtags="StandWithUkraine" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  uk: <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Портал з порадами для біженців з України про успішний старт у Швейцарії" data-url="https://www.HelloUkraine.ch" data-hashtags="StandWithUkraine" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  ru: <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Портал с советами для беженцев из Украины об успешном старте в Швейцарии" data-url="https://www.HelloUkraine.ch" data-hashtags="StandWithUkraine" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  en: <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Portal with tips for refugees from Ukraine on a successful start in Switzerland" data-url="https://www.HelloUkraine.ch" data-hashtags="StandWithUkraine" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 plugins:

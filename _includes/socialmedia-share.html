@@ -1,10 +1,16 @@
+<span class="socialicons">
 {% if page.lang=="de" %}
-  {{ site.twitter.de }}
+  <a href="https://twitter.com/intent/tweet?text={{ page.socialshare | default: site.socialshare.de | url_encode }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a> | 
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url | url_encode }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a> 
 {% elsif page.lang=="uk" %}
-  {{ site.twitter.uk }}
+  <a href="https://twitter.com/intent/tweet?text={{ page.socialshare | default: site.socialshare.uk | url_encode }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a> | 
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url | url_encode }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a> 
 {% elsif page.lang=="ru" %}
-  {{ site.twitter.ru }}
+  <a href="https://twitter.com/intent/tweet?text={{ page.socialshare | default: site.socialshare.ru | url_encode }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a> | 
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url | url_encode }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a> 
 {% else %}
-  {{ site.twitter.en }}
+  <a href="https://twitter.com/intent/tweet?text={{ page.socialshare | default: site.socialshare.en | url_encode }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a> | 
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url | url_encode }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a> 
 {% endif %}
+</span>
 

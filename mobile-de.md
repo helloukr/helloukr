@@ -3,6 +3,7 @@ lang: de
 pageid: mobile
 title: SIM-Karten & Mobiltelefonie
 description: Mobiltelefonie, SIM-Karten und Internet-Abos/-Verträge
+socialshare: "Gratis Mobiltelefonie für Ukrainer in der Schweiz https://www.HelloUkraine.ch #StandWithUkraine"
 ---
 # {{ page.title }}
 
