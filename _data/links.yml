@@ -137,10 +137,11 @@ cantons:
     en: Canton of Aargau
 
   - url: https://www.tg.ch/news.html/485/news/56756/l/de
-    de: Kanton Thurgau TG
-    uk: Кантон Тургау TG
-    ru: Кантон Тургау TG
-    en: Canton of Thurgau TG
+    canton: TG
+    de: Kanton Thurgau
+    uk: Кантон Тургау
+    ru: Кантон Тургау
+    en: Canton of Thurgau
 
   - url: https://www4.ti.ch/di/ucraina/home/
     canton: TI
