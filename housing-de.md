@@ -7,11 +7,11 @@ description: Informationen und Empfehlungen für Flüchtlinge und Helfende
 # {{ page.title }}
 
 
-Die [Schweizerische Flüchtlingshilfe](https://www.fluechtlingshilfe.ch/aktiv-werden/fuer-ukrainische-gefluechtete) und [CAMPAX](https://campax.org)
+Die [Schweizerische Flüchtlingshilfe](https://www.fluechtlingshilfe.ch/aktiv-werden/fuer-ukrainische-gefluechtete) und [Campax](https://campax.org)
 koordinieren in Zusammenarbeit mit Partnerorganisationen die Unterbringung von ukrainischen Geflüchteten bei privaten Gastfamilien. 
 
 
-## CAMPAX
+## Campax
 Menschen in Not beherbergen:
 
 - [Nützliche Informationen für Schutzsuchende aus der Ukraine](https://campax.org/infos-fuer-ukraine-fluechtende/)

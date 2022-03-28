@@ -7,10 +7,10 @@ description: Information and recommendations for refugees and helpers
 # {{ page.title }}
 
 
-[Swiss Refugee Aid](https://www.fluechtlingshilfe.ch/aktiv-werden/fuer-ukrainische-gefluechtete) and [CAMPAX](https://campax.org), in cooperation with partner organisations, coordinate the accommodation of Ukrainian refugees with private host families.
+[Swiss Refugee Aid](https://www.fluechtlingshilfe.ch/aktiv-werden/fuer-ukrainische-gefluechtete) and [Campax](https://campax.org), in cooperation with partner organisations, coordinate the accommodation of Ukrainian refugees with private host families.
 
 
-## CAMPAX
+## Campax
 Sheltering people in need
 
 - [Useful information for those seeking protection from Ukraine](https://campax.org/infos-fuer-ukraine-fluechtende/)
