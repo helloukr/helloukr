@@ -1,0 +1,185 @@
+cantons:
+    
+  - url: https://www.zh.ch/de/migration-integration/ukrainehilfe.html
+    canton: ZH
+    de: Kanton Zürich
+    uk: Кантон Цюрих
+    ru: Кантон Цюрих
+    en: Canton of Zurich
+
+  - url: https://www.be.ch/de/start/dienstleistungen/ukraine.html
+    canton: BE
+    de: Kanton Bern
+    uk: Кантон Берн
+    ru: Кантон Бернг
+    en: Canton of Bern
+
+  - url: https://www.srk-luzern.ch/die-hilfsangebote-des-srk
+    canton: LU
+    de: Kanton Luzern
+    uk: Кантон Люцерн
+    ru: Кантон Люцерн
+    en: Canton of Luzern
+
+  - url: https://www.ur.ch/themen/5504
+    canton: UR
+    de: Kanton Uri
+    uk: Кантон Люцерн
+    ru: Кантон Люцерн
+    en: Canton of Uri
+
+  - url: https://www.sz.ch/behoerden/information-medien/medienmitteilungen/ukraine.html/72-416-412-1379-8449
+    canton: SZ
+    de: Kanton Schwyz
+    uk: Кантон Кантон Швиц
+    ru: Кантон Кантон Швиц
+    en: Canton of Schwyz
+
+  - url: https://www.ow.ch/familie/5491
+    canton: OW
+    de: Kanton Obwalden
+    uk: Кантон Обвальден
+    ru: Кантон Обвальден
+    en: Canton of Obwalden
+
+
+  - url: https://www.nw.ch/dienstleistungen/7705
+    canton: NW
+    de: Kanton Nidwalden
+    uk: Кантон Нидвальден
+    ru: Кантон Нидвальден
+    en: Canton of Nidwalden
+
+
+  - url: https://www.gl.ch/public-newsroom.html/31/newsroomnews/2331
+    canton: GL
+    de: Kanton Glarus
+    uk: Кантон Гларус
+    ru: Кантон Гларус
+    en: Canton of Glarus
+
+  - url: https://www.zg.ch/behoerden/staatskanzlei/kommunikationsstelle/ukraine-hilfe
+    canton: ZG
+    de: Kanton Zug
+    uk: Кантон Цуг
+    ru: Кантон Цуг
+    en: Canton of Zug
+
+  - url: https://www.fr.ch/de/alltag/bei-schwierigkeiten/ukraine-wichtige-informationen
+    canton: FR
+    de: Kanton Freiburg
+    uk: Кантон Фрибур
+    ru: Кантон Фрибур
+    en: Canton of Freiburg
+
+
+  - url: https://ukraine.so.ch/
+    canton: SO
+    de: Kanton Solothurn
+    uk: Кантон Золотурн
+    ru: Кантон Золотурн
+    en: Canton of Solothurn
+
+  - url: https://www.support-ukraine.bs.ch
+    canton: BS
+    de: Kanton Basel-Stadt
+    uk: Кантон Базель
+    ru: Кантон Базель
+    en: Canton of Basel-City
+
+  - url: https://www.baselland.ch/politik-und-behorden/direktionen/finanz-und-kirchendirektion/sozialamt/infos-zu-schutzbeduerftigen-aus-der-ukraine
+    canton: BL
+    de: Kanton Basel-Land
+    uk: Кантон Базель
+    ru: Кантон Базель
+    en: Canton of Basel
+
+  - url: https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Migrationsamt-und-Passb-ro/Ukraine--Kantonale-Anlaufstelle-10250559-DE.html
+    canton: SH
+    de: Kanton Schaffhausen
+    uk: Кантон Шаффхаузен
+    ru: Кантон Шаффхаузен
+    en: Canton of Schaffhausen
+
+  - url: https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-soziales/abteilung-sozialhilfe-und-asyl/asyl/ukraine-krise/
+    canton: AR
+    de: Kanton Appenzell Ausserrhoden
+    uk: Кантон Аппенцелль-Ауссерроден
+    ru: Кантон Аппенцелль-Ауссерроден
+    en: Canton of Appenzell Ausserrhoden
+
+  - url: https://www.ai.ch/verwaltung/justiz-polizei-und-militaerdepartement/ukrainekrise
+    canton: AI  
+    de: Kanton Appenzell Innerrhoden
+    uk: Кантон Аппенцелль-Иннерроден
+    ru: Кантон Аппенцелль-Иннерроден
+    en: Canton of Appenzell Innerrhoden
+
+  - url: https://www.sg.ch/tools/ukraine.html
+    canton: SG
+    de: Kanton St. Gallen
+    uk: Кантон Санкт-Галлен
+    ru: Кантон Санкт-Галлен
+    en: Canton of St. Gallen
+
+  - url: https://www.gr.ch/ukraine
+    canton: GR
+    de: Kanton Graubünden
+    uk: Кантон Граубюнден
+    ru: Кантон Граубюнден
+    en: Canton of Graubünden
+
+  - url: https://www.ag.ch/de/themen/asyl-und-fluechtlingswesen/ukraine-krise
+    canton: AG
+    de: Kanton Aargau
+    uk: Кантон Ааргау
+    ru: Кантон Ааргау
+    en: Canton of Aargau
+
+  - url: https://www.tg.ch/news.html/485/news/56756/l/de
+    de: Kanton Thurgau TG
+    uk: Кантон Тургау TG
+    ru: Кантон Тургау TG
+    en: Canton of Thurgau TG
+
+  - url: https://www4.ti.ch/di/ucraina/home/
+    canton: TI
+    de: Kanton Tessin
+    uk: Кантон Тичино
+    ru: Кантон Тичино
+    en: Canton of Ticino
+
+  - url: https://www.vd.ch/ukraine
+    canton: VD
+    de: Kanton Waadt
+    uk: Кантон Во
+    ru: Кантон Во
+    en: Canton of Vaud
+
+  - url: https://www.vs.ch/web/entraide2022
+    canton: VS
+    de: Kanton Wallis
+    uk: Кантон Вале
+    ru: Кантон Вале
+    en: Canton of Valais
+
+  - url: https://www.ne.ch/medias/Pages/20220309_Ukraine_accueil_refugies.aspx
+    canton: NE
+    de: Kanton Neuenburg
+    uk: Кантон Невшатель
+    ru: Кантон Невшатель
+    en: Canton of Neuchâtel
+
+  - url: https://www.ge.ch/conflit-ukraine/solidarite-ukraine
+    canton: GE
+    de: Kanton Genf
+    uk: Кантон Женева
+    ru: Кантон Женева
+    en: Canton of Genève
+
+  - url: https://www.jura.ch/ukraine
+    canton: JU
+    de: Kanton Jura
+    uk: Кантон Юра
+    ru: Кантон Юра
+    en: Canton of Jura
