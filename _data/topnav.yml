@@ -28,6 +28,11 @@
   uk: Фінанси
   ru: Финансы
   pagebase: /finance
+- en: Links
+  de: Links
+  uk: посилання
+  ru: ссылки
+  pagebase: /links
 - en: Emergency
   de: Notfall
   uk: Надзвичайних
