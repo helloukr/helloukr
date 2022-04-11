@@ -9,15 +9,15 @@ description: Збір корисних посилань і ресурсів
 # {{ page.title }}
 
 # Кантональна допомога Україні
-Контакти та інформація кантонів
+Контакти та інформація різних кантонів
 
 {% for item in cantons %}[{{ item.canton }}](#{{ item.canton }}) - {% endfor %}
 {% for item in cantons %}
 ### [{{ item.uk }}]({{ item.url1 }}) - **{{ item.canton }}**
 {% if item.uk2 %}{{ item.uk2 }}{% endif %}
-- Hotline: **{{ item.hotline }}** 
-- Mail: [{{ item.mail }}](mailto:{{ item.mail }})
-- Source: [www]({{ item.url2 }})
+- Гаряча лінія: **{{ item.hotline }}** 
+- Електронна пошта: [{{ item.mail }}](mailto:{{ item.mail }})
+- Джерело: [www]({{ item.url2 }})
 {% endfor %}
 
 
