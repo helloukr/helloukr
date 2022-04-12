@@ -31,3 +31,8 @@ Here you will find our recommendations so that you and your community can prepar
 Swiss churches help refugees from Ukraine. They connect private individuals who want to help and coordinate the accommodation of guests together with aid organizations.
 
 - [Swiss churches help refugees from Ukraine](https://kirchen-helfen.ch)
+
+
+## Hospitality Helps
+Map with offers of accommodation for Ukrainian refugees.
+- [Hospitality Helps](https://hospitalityhelps.ch)

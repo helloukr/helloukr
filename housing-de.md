@@ -33,3 +33,8 @@ Schweizer Kirchen helfen Flüchtenden aus der Ukraine ebenfalls.
 Sie verbinden Privatpersonen, die helfen möchten und koordinieren mit Hilfswerken die Unterbringung von Gästen.
 
 - [Als Schweizer Kirchen helfen wir Flüchtenden aus der Ukraine.](https://kirchen-helfen.ch)
+
+
+## Hospitality Helps
+Karte mit Angeboten von Unterkünften für ukrainische Flüchtlinge.
+- [Hospitality Helps](https://hospitalityhelps.ch)
