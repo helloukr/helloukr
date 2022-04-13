@@ -9,16 +9,37 @@ description: Collection of useful links and resources
 # {{ page.title }}
 
 # Cantonal Information & Support 
-Contacts and information of the cantons
+Contacts, information, anf private offers by canton
 
-{% for item in cantons %}[{{ item.canton }}](#{{ item.canton }}) - {% endfor %}
-{% for item in cantons %}
-### [{{ item.en }}]({{ item.url1 }}) - **{{ item.canton }}**
-{% if item.en2 %}{{ item.en2 }}{% endif %}
-- Hotline: **{{ item.hotline }}** 
-- Mail: [{{ item.mail }}](mailto:{{ item.mail }})
-- Source: [www]({{ item.url2 }})
+<table>
+<tr>
+    <th>Canton</th>
+    <th>Authorities</th>
+    <th>Private Offers</th>
+</tr>
+{% for item in cantons -%}
+<tr>
+    <td>
+        {{ item.canton }}
+        <br/>
+        <b>{{ item.en }}</b>
+    </td>
+    <td>
+        <ul>
+            <li>Hotline: <a href="tel:{{ item.hotline  | remove: ' ' }}">{{ item.hotline }}</a> </li>
+            <li>Mail: <a href="mailto:{{ item.mail }}">{{ item.mail }}</a> </li>
+            <li>Source: <a href="{{ item.url1 }}">www</a> </li>
+        </ul>
+    </td>
+    <td>
+    {% if item.links %}
+        <ul>
+        {% for link in item.links %} 
+            <li><a href="{{ link.url }}">{{ link.name }}</a></li>
+        {% endfor %}
+        </ul>
+    {% endif %}
+    </td>
+</tr>
 {% endfor %}
-
-
-
+</table>

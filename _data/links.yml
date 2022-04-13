@@ -3,66 +3,72 @@ cantons:
   - url1: https://www.zh.ch/de/migration-integration/ukrainehilfe.html
     url2: https://www.zh.ch/de/migration-integration/ukrainehilfe.html
     canton: ZH
-    hotline: +41 79 942 62 59, +41 79 729 56 23 (Tel, SMS, WhatsApp)
+    #  (Tel, SMS, WhatsApp)
+    hotline: +41 79 942 62 59, +41 79 729 56 23
     mail: N/A
-    de: Kanton Zürich
+    de: Zürich
     de2: Für Personen aus der Ukraine -  Wir beantworten Fragen zu Ihrer Ankunft und zur aktuellen Situation im Kanton Zürich.
     uk: Кантон Цюрих
     uk2: Для людей з України - Ми відповідаємо українською та російською на питання з приводу вашого приїзду та актуальної ситуації у кантоні Цюріх.
-    ru: Кантон Цюрих
+    ru: Цюрих
     ru2: Для людей из Украины - Мы отвечаем на украинском и на русском на вопросы насчет вашего приезда и актуальной ситуации в кантоне Цюрих.
-    en: Canton of Zurich
+    en: Zurich
     en2: For people from Ukraine - We answer questions about your arrival and the current situation in the Canton of Zurich.
+
 
   - url1: https://www.asyl.sites.be.ch/de/start/integration/wissenswertes-schutzsuchende-ukraine.html
     url2: https://www.be.ch/de/start/dienstleistungen/ukraine.html
     canton: BE
-    hotline: N/A
-    mail: N/A
-    de: Kanton Bern
-    uk: Кантон Берн
-    ru: Кантон Бернг
-    en: Canton of Bern
+    hotline: +41 31 636 98 80
+    mail: info.ukraine.gsi@be.ch
+    de: Bern
+    uk: Берн
+    ru: Бернг
+    en: Bern
+    links:
+      - name: Ukraine Hilfe Bern
+        url: https://www.ukraine-hilfe-bern.ch
+
 
   - url1: https://www.srk-luzern.ch/die-hilfsangebote-des-srk
     url2: https://daf.lu.ch/Ukraine_Informationen/
     canton: LU
     hotline: +41 41 228 73 73 
     mail: infoline.ukraine@lu.ch
-    de: Kanton Luzern
+    de: Luzern
     uk: Кантон Люцерн
-    ru: Кантон Люцерн
-    en: Canton of Luzern
+    ru: Люцерн
+    en: Luzern
 
   - url1: https://www.ur.ch/themen/5504
     url2: https://www.ur.ch/themen/5504
     canton: UR
     hotline: N/A
     mail: N/A
-    de: Kanton Uri
+    de: Uri
     uk: Кантон Люцерн
-    ru: Кантон Люцерн
-    en: Canton of Uri
+    ru: Люцерн
+    en: Uri
 
   - url1: https://www.sz.ch/behoerden/information-medien/medienmitteilungen/ukraine.html/72-416-412-1379-8449
     url2: https://www.sz.ch/behoerden/information-medien/medienmitteilungen/ukraine.html/72-416-412-1379-8449
     canton: SZ
     hotline: N/A
     mail: N/A
-    de: Kanton Schwyz
+    de: Schwyz
     uk: Кантон Кантон Швиц
-    ru: Кантон Кантон Швиц
-    en: Canton of Schwyz
+    ru: Кантон Швиц
+    en: Schwyz
 
   - url1: https://www.ow.ch/familie/5491
     url2: https://www.ow.ch/familie/5491
     canton: OW
     hotline: +41 41 662 97 97
     mail: ukraine@ow.ch
-    de: Kanton Obwalden
+    de: Obwalden
     uk: Кантон Обвальден
-    ru: Кантон Обвальден
-    en: Canton of Obwalden
+    ru: Обвальден
+    en: Obwalden
 
 
   - url1: https://www.nw.ch/dienstleistungen/7705
@@ -70,10 +76,10 @@ cantons:
     canton: NW
     hotline: +41 41 618 75 15
     mail: ukraine@nw.ch 
-    de: Kanton Nidwalden
+    de: Nidwalden
     uk: Кантон Нидвальден
-    ru: Кантон Нидвальден
-    en: Canton of Nidwalden
+    ru: Нидвальден
+    en: Nidwalden
 
 
   - url1: https://www.gl.ch/public-newsroom.html/31/newsroomnews/2331
@@ -81,30 +87,30 @@ cantons:
     canton: GL
     hotline: +41 55 646 67 70
     mail: asylbetreuung@gl.ch
-    de: Kanton Glarus
+    de: Glarus
     uk: Кантон Гларус
-    ru: Кантон Гларус
-    en: Canton of Glarus
+    ru: Гларус
+    en: Glarus
 
   - url1: https://www.zg.ch/behoerden/staatskanzlei/kommunikationsstelle/ukraine-hilfe
     url2: https://www.zg.ch/behoerden/staatskanzlei/kommunikationsstelle/ukraine-hilfe
     canton: ZG
     hotline: +41 41 723 78 99
     mail: ukrainehilfe@zg.ch
-    de: Kanton Zug
+    de: Zug
     uk: Кантон Цуг
-    ru: Кантон Цуг
-    en: Canton of Zug
+    ru: Цуг
+    en: Zug
 
   - url1: https://www.fr.ch/de/alltag/bei-schwierigkeiten/ukraine-wichtige-informationen
     url2: https://www.fr.ch/de/alltag/bei-schwierigkeiten/ukraine-wichtige-informationen
     canton: FR
     hotline: N/A
     mail: N/A
-    de: Kanton Freiburg
+    de: Freiburg
     uk: Кантон Фрибур
-    ru: Кантон Фрибур
-    en: Canton of Freiburg
+    ru: Фрибур
+    en: Freiburg
 
 
   - url1: https://ukraine.so.ch
@@ -112,157 +118,160 @@ cantons:
     canton: SO
     hotline: +41 32 627 23 11
     mail: anfragen@ddi.so.ch
-    de: Kanton Solothurn
+    de: Solothurn
     uk: Кантон Золотурн
-    ru: Кантон Золотурн
-    en: Canton of Solothurn
+    ru: Золотурн
+    en: Solothurn
 
   - url1: https://www.support-ukraine.bs.ch
     url2: https://www.bs.ch/nm/2022-krieg-in-der-ukraine--aufnahme-von-fluechtlingen-in-basel-stadt-wsu.html
     canton: BS
     hotline: +41 (0)61 267 85 44
     mail: wsu@bs.ch
-    de: Kanton Basel-Stadt
+    de: Basel-Stadt
     uk: Кантон Базель
-    ru: Кантон Базель
-    en: Canton of Basel-City
+    ru: Базель
+    en: Basel-City
 
   - url1: https://www.baselland.ch/politik-und-behorden/direktionen/finanz-und-kirchendirektion/sozialamt/infos-zu-schutzbeduerftigen-aus-der-ukraine
     url2: https://www.baselland.ch/politik-und-behorden/direktionen/finanz-und-kirchendirektion/sozialamt/infos-zu-schutzbeduerftigen-aus-der-ukraine
     canton: BL
     hotline: +41 61 552 75 00
     mail: N/A
-    de: Kanton Basel-Land
+    de: Basel-Land
     uk: Кантон Базель
-    ru: Кантон Базель
-    en: Canton of Basel
+    ru: Базель
+    en: Basel
 
   - url1: https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Migrationsamt-und-Passb-ro/Ukraine--Kantonale-Anlaufstelle-10250559-DE.html
     url2: https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Sozialamt/Ukraine--Kantonale-Anlaufstelle-10340070-DE.html
     canton: SH
     hotline: +41 52 632 66 33
     mail: ukraine@sh.ch
-    de: Kanton Schaffhausen
+    de: Schaffhausen
     uk: Кантон Шаффхаузен
-    ru: Кантон Шаффхаузен
-    en: Canton of Schaffhausen
+    ru: Шаффхаузен
+    en: Schaffhausen
 
   - url1: https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-soziales/abteilung-sozialhilfe-und-asyl/asyl/ukraine-krise
     url2: https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-soziales/abteilung-sozialhilfe-und-asyl/asyl/ukraine-krise
     canton: AR
     hotline: +41 71 353 66 66
     mail: ukraine@ar.ch
-    de: Kanton Appenzell Ausserrhoden
+    de: Appenzell Ausserrhoden
     uk: Кантон Аппенцелль-Ауссерроден
-    ru: Кантон Аппенцелль-Ауссерроден
-    en: Canton of Appenzell Ausserrhoden
+    ru: Аппенцелль-Ауссерроден
+    en: Appenzell Ausserrhoden
 
   - url1: https://www.ai.ch/verwaltung/justiz-polizei-und-militaerdepartement/ukrainekrise
     url2: https://www.ai.ch/verwaltung/justiz-polizei-und-militaerdepartement/ukrainekrise
     canton: AI
     hotline: +41 71 788 94 28
     mail: ukraine-hilfe@ai.ch
-    de: Kanton Appenzell Innerrhoden
+    de: Appenzell Innerrhoden
     uk: Кантон Аппенцелль-Иннерроден
-    ru: Кантон Аппенцелль-Иннерроден
-    en: Canton of Appenzell Innerrhoden
+    ru: Аппенцелль-Иннерроден
+    en: Appenzell Innerrhoden
 
   - url1: https://www.sg.ch/tools/ukraine.html
     url2: https://www.sg.ch/tools/ukraine.html
     canton: SG
     hotline: N/A
     mail: N/A
-    de: Kanton St. Gallen
+    de: St. Gallen
     uk: Кантон Санкт-Галлен
-    ru: Кантон Санкт-Галлен
-    en: Canton of St. Gallen
+    ru: Санкт-Галлен
+    en: St. Gallen
+    links:
+      - url: https://ukraine.riethüsli.ch/informationen-zum-projekt/
+        name: Initiative Ukraine@Riethüsli
 
   - url1: https://www.gr.ch/ukraine
     url2: https://www.gr.ch/DE/institutionen/verwaltung/djsg/afm/ukraine/hilfe/Seiten/info.aspx
     canton: GR
     hotline: +41 58 465 99 11
     mail: ukraine@amz.gr.ch
-    de: Kanton Graubünden
+    de: Graubünden
     uk: Кантон Граубюнден
-    ru: Кантон Граубюнден
-    en: Canton of Graubünden
+    ru: Граубюнден
+    en: Graubünden
 
   - url1: https://www.ag.ch/de/themen/asyl-und-fluechtlingswesen/ukraine-krise
     url2: https://www.ag.ch/de/themen/asyl-und-fluechtlingswesen/ukraine-krise
     canton: AG
     hotline: +41 62 835 11 33
     mail: ukraine@ag.ch
-    de: Kanton Aargau
+    de: Aargau
     uk: Кантон Ааргау
-    ru: Кантон Ааргау
-    en: Canton of Aargau
+    ru: Ааргау
+    en: Aargau
 
   - url1: https://www.tg.ch/news.html/485/news/56756/l/de
     url2: https://www.tg.ch/news.html/485/news/56756
     canton: TG
     hotline: +41 58 345 91 91
     mail: ukraine-hilfe@tg.ch
-    de: Kanton Thurgau
+    de: Thurgau
     uk: Кантон Тургау
-    ru: Кантон Тургау
-    en: Canton of Thurgau
+    ru: Тургау
+    en: Thurgau
 
   - url1: https://www4.ti.ch/di/ucraina/home/
     url2: https://www4.ti.ch/di/ucraina/home/
     canton: TI
     hotline: 0800 194 194
     mail: N/A
-    de: Kanton Tessin
+    de: Tessin
     uk: Кантон Тичино
-    ru: Кантон Тичино
-    en: Canton of Ticino
+    ru: Тичино
+    en: Ticino
 
   - url1: https://www.vd.ch/ukraine
     url2: https://www.vd.ch/toutes-les-actualites/ukraine-obtenir-le-statut-de-protection-s-senregistrer-dans-un-cfa-accueillir-une-personne-migrante-faire-du-benevolat-securite-de-la-population-etc/
     canton: VD
     hotline: +41 58 715 11 07
     mail: N/A
-    de: Kanton Waadt
+    de: Waadt
     uk: Кантон Во
-    ru: Кантон Во
-    en: Canton of Vaud
+    ru: Во
+    en: Vaud
 
   - url1: https://www.vs.ch/web/entraide2022
     url2: https://www.vs.ch/de/web/entraide2022
     canton: VS
     hotline: N/A
     mail: N/A
-    de: Kanton Wallis
+    de: Wallis
     uk: Кантон Вале
-    ru: Кантон Вале
-    en: Canton of Valais
+    ru: Вале
+    en: Valais
 
   - url1: https://www.ne.ch/medias/Pages/20220309_Ukraine_accueil_refugies.aspx
     url2: https://www.ne.ch/Ukraine/Pages/accueil.aspx
     canton: NE
     hotline: +41 32 889 37 20
     mail: smig.ukraine@ne.ch
-    de: Kanton Neuenburg
+    de: Neuenburg
     uk: Кантон Невшатель
-    ru: Кантон Невшатель
-    en: Canton of Neuchâtel
+    ru: Невшатель
+    en: Neuchâtel
 
   - url1: https://www.ge.ch/conflit-ukraine/solidarite-ukraine
     url2: https://www.ge.ch/conflit-ukraine
     canton: GE
     hotline: N/A
     mail: ukraine@sem.admin.ch
-    de: Kanton Genf
+    de: Genf
     uk: Кантон Женева
-    ru: Кантон Женева
-    en: Canton of Genève
+    ru: Женева
+    en: Genève
 
   - url1: https://www.jura.ch/ukraine
     url2: https://www.jura.ch/fr/Autorites/Ukraine/Accueil.html
     canton: JU
     hotline: +41 32 321 50 40
     mail: N/A
-    de: Kanton Jura
+    de: Jura
     uk: Кантон Юра
-    ru: Кантон Юра
-    en: Canton of Jura
+    ru: Юра
+    en: Jura

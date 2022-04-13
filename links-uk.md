@@ -11,15 +11,38 @@ description: Збір корисних посилань і ресурсів
 # Кантональна допомога Україні
 Контакти та інформація різних кантонів
 
-{% for item in cantons %}[{{ item.canton }}](#{{ item.canton }}) - {% endfor %}
-{% for item in cantons %}
-### [{{ item.uk }}]({{ item.url1 }}) - **{{ item.canton }}**
-{% if item.uk2 %}{{ item.uk2 }}{% endif %}
-- Гаряча лінія: **{{ item.hotline }}** 
-- Електронна пошта: [{{ item.mail }}](mailto:{{ item.mail }})
-- Джерело: [www]({{ item.url2 }})
+<table>
+<tr>
+    <th>Кантон</th>
+    <th>Офіційна інформація</th>
+    <th>Приватні пропозиції</th>
+</tr>
+{% for item in cantons -%}
+<tr>
+    <td>
+        {{ item.canton }}
+        <br/>
+        <b>{{ item.uk }}</b>
+    </td>
+    <td>
+        <ul>
+            <li>Гаряча лінія: <a href="tel:{{ item.hotline  | remove: ' ' }}">{{ item.hotline }}</a> </li>
+            <li>Електронна пошта: <a href="mailto:{{ item.mail }}">{{ item.mail }}</a> </li>
+            <li>Джерело: <a href="{{ item.url1 }}">www</a> </li>
+        </ul>
+    </td>
+    <td>
+    {% if item.links %}
+        <ul>
+        {% for link in item.links %} 
+            <li><a href="{{ link.url }}">{{ link.name }}</a></li>
+        {% endfor %}
+        </ul>
+    {% endif %}
+    </td>
+</tr>
 {% endfor %}
-
+</table>
 
 
 
