@@ -8,8 +8,9 @@ socialshare: "Gratis Mobiltelefonie für Ukrainer in der Schweiz https://www.Hel
 # {{ page.title }}
 
 ## Roaming-Kosten für Anrufe in die Ukraine aufgehoben :fire:
-Sunrise, Swisscom und Salt übernehmen vorübergehend die Kosten für Anrufe in die Ukraine und von der Ukraine in die Schweiz. Das Angebot ist teilweise befristet.
-- [Ukraine: **Sunrise UPC** erlässt Kosten für Anrufe](https://www.sunrise.ch/de/corporate-communications/medien/pressemitteilungen/newscontent.html#id=https://irpages2.eqs.com/websites/swissfeed/German/99/detail-page.html?newsId=1525da96-2864-4d42-9efa-3099f185a807)
+Sunrise, Swisscom und Salt übernehmen vorübergehend die Kosten für Anrufe in die Ukraine und von der Ukraine in die Schweiz. Die Angebote sind teilweise befristet.
+
+- [**Sunrise UPC** for Ukraine](https://www.sunrise.ch/de/privatkunden/prepaid/ukraine.html) - Gratis SIM-Karte und Anrufe
 - [Gespräche in die und Roaming in der Ukraine kostenlos (**Swisscom**)](https://www.swisscom.ch/de/privatkunden/ukraine.html)
 - [**Salt** erlässt die Gebühren für Anrufe aus der Schweiz in die Ukraine (...) bis zum 22. März 2022.](https://twitter.com/SaltMobile_DE/status/1505858098182959107?s=20&t=380-Dh63pnxIVwrUOgbwwQ)
 

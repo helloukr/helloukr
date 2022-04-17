@@ -8,7 +8,7 @@ description: Mobile and Internet provider and how to get a subscription
 
 ## Roaming costs for calls to Ukraine canceled :fire:
 Sunrise, Swisscom and Salt temporarily cover the cost of calls to Ukraine and from Ukraine to Switzerland. The offer is partly temporary.
-- [Ukraine: **Sunrise UPC** waives charges for calls](https://www.sunrise.ch/en/corporate-communications/medien/pressemitteilungen/newscontent.html#id=https://irpages2.eqs.com/websites/swissfeed/English/99/detail-page.html?newsId=1525da96-2864-4d42-9efa-3099f185a807)
+- [**Sunrise UPC** for Ukraine](https://www.sunrise.ch/en/residential/prepaid/ukraine.html) - Free SIM card and calls to Ukraine
 - [Free calls to Ukraine and roaming within Ukraine (**Swisscom**)](https://www.swisscom.ch/en/residential/ukraine.html)
 - [**Salt** waives charges for calls from Switzerland to Ukraine (...) until March 22, 2022.](https://twitter.com/SaltMobile_DE/status/1505858098182959107?s=20&t=380-Dh63pnxIVwrUOgbwwQ)
 

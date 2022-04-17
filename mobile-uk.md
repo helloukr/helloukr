@@ -8,8 +8,8 @@ description: Мобільний та інтернет-провайдер і як
 
 ## Знято плату за роумінг на дзвінки в Україну :fire:
 Sunrise, Swisscom та Salt тимчасово покриють витрати на дзвінки в Україну і з України в Швейцарію. Пропозиція обмежена в часі, будьласк уточніть дату.
-- [Україна: **Sunrise UPC** відмовляється від плати за дзвінки](https://www.sunrise.ch/de/corporate-communications/medien/pressemitteilungen/newscontent.html#id=https://irpages2.eqs.com/websites/swissfeed/German/99/detail-page.html?newsId=1525da96-2864-4d42-9efa-3099f185a807)
-- [Безкоштовні дзвінки та роумінг в Україні (**Swisscom**)](https://www.swisscom.ch/de/privatkunden/ukraine.html)
+- [**Sunrise UPC** для України](https://www.sunrise.ch/content/sunrise/de/residential/prepaid/ukraine/ukr.html) - Безплатна SIM-картка, Безплатні дзвінки до України
+- [Безкоштовні дзвінки та роумінг в Україні (**Swisscom**)](https://www.swisscom.ch/de/privatkunden/ukraine-ukr.html)
 - [**Salt** скасовує плату за дзвінки зі Швейцарії в Україну (...) до 22 березня 2022 року.](https://twitter.com/SaltMobile_DE/status/1505858098182959107?s=20&t=380-Dh63pnxIVwrUOgbwwQ)
 
 ## Безкоштовна SIM-карта для українських біженців :fire:

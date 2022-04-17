@@ -8,8 +8,8 @@ description: Мобильная связь, SIM-карты и интернет-�
 
 ## Стоимость роуминга для звонков в Украину отменена :fire:
 Sunrise, Swisscom и Salt временно покрывают стоимость звонков в Украину и из Украины в Швейцарию.
-- [Украина: **Sunrise UPC** освобождает от платы за звонки](https://www.sunrise.ch/de/corporate-communications/medien/pressemitteilungen/newscontent.html#id=https://irpages2.eqs.com/websites/swissfeed/German/99/detail-page.html?newsId=1525da96-2864-4d42-9efa-3099f185a807)
-- [Звонки в Украину и роуминг в Украине бесплатно (**Swisscom**)](https://www.swisscom.ch/de/privatkunden/ukraine.html)
+- [**Sunrise UPC** для Украины](https://www.sunrise.ch/content/sunrise/de/residential/prepaid/ukraine/ukr.html) - Бесплатная SIM-карта, Бесплатные звонки в Украину
+- [Звонки в Украину и роуминг в Украине бесплатно (**Swisscom**)](https://www.swisscom.ch/de/privatkunden/ukraine-ukr.html)
 - [**Salt** отменяет плату за звонки из Швейцарии в Украину (...) до 22 марта 2022.](https://twitter.com/SaltMobile_DE/status/1505858098182959107?s=20&t=380-Dh63pnxIVwrUOgbwwQ)
 
 ## Бесплатная SIM-карта для украинских беженцев :fire:
