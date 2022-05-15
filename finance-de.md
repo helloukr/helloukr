@@ -14,7 +14,10 @@ Der Schweizer Franken (auch Schweizerfranken geschrieben) ist die Währung der S
 
 
 ## Bankkonto eröffnen :fire:
-Bei der [Zürcher Kantonalbank ZKB](https://www.zkb.ch/de/hilfe/sc/wie-koennen-schutzbeduerftige-aus-der-ukraine-ein-konto-bei-der-.html) können Schutzbedürftige mit dem Pass und dem Ausweis S ein Schweizer Bankkonto für den Lebensunterhalt eröffnen.
+Schutzbedürftige mit dem Pass und dem Ausweis S können bei vielen Schweizer Banken ein Bankkonto eröffnen:
+
+- [Credit-Suisse](https://csx.credit-suisse.com/de/konto-karte/csx/csx-status-s.html) - Kostenloses Konto und Bankkarte für die ersten 12 Monate
+- [Zürcher Kantonalbank ZKB](https://www.zkb.ch/de/hilfe/sc/wie-koennen-schutzbeduerftige-aus-der-ukraine-ein-konto-bei-der-.html) 
 
 
 ## Kreditkarten
