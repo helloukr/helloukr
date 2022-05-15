@@ -132,6 +132,9 @@ cantons:
     uk: Кантон Базель
     ru: Базель
     en: Basel-City
+    links:
+      - name: «lolingu4free» provides free language lessons to refugees in Switzerland.
+        url: https://lolingu.com/refugees
 
   - url1: https://www.baselland.ch/politik-und-behorden/direktionen/finanz-und-kirchendirektion/sozialamt/infos-zu-schutzbeduerftigen-aus-der-ukraine
     url2: https://www.baselland.ch/politik-und-behorden/direktionen/finanz-und-kirchendirektion/sozialamt/infos-zu-schutzbeduerftigen-aus-der-ukraine

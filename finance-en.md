@@ -15,7 +15,12 @@ Its abbreviation according to ISO 4217 is **CHF**, in German **Fr.**, in the oth
 ![Banknotes of Switzerland](/assets/img/banknoten.jpg)
 
 ## Open bank account
-At the [Zürcher Kantonalbank ZKB](https://www.zkb.ch/de/hilfe/sc/wie-koennen-schutzbeduerftige-aus-der-ukraine-ein-konto-bei-der-.html), people in need of protection can open an account for their livelihood with their passport and permission S.
+
+In many Swiss banks people in need of protection can open an account for their livelihood with their passport and permission S:
+
+- [Credit-Suisse](https://csx.credit-suisse.com/de/konto-karte/csx/csx-status-s.html) - Free account and bank card for the first 12 months 
+- [Zürcher Kantonalbank ZKB](https://www.zkb.ch/de/hilfe/sc/wie-koennen-schutzbeduerftige-aus-der-ukraine-ein-konto-bei-der-.html) 
+
 
 
 ## Credit Cards

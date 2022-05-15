@@ -14,7 +14,11 @@ description:
 
 
 ## Открыть банковский счет :fire:
-Лица, нуждающиеся в защите, могут открыть банковский счет в [Цюрихском Кантональном Банке - ZKB](https://www.zkb.ch/de/hilfe/sc/wie-koennen-schutzbeduerftige-aus-der-ukraine-ein-konto-bei-der-.html). Для этого понадобится паспорт и Идентификационная карточка S.
+Лица, нуждающиеся в защите с паспортом и картой S, могут открыть банковский счет во многих швейцарских банках: 
+
+- [Credit-Suisse](https://csx.credit-suisse.com/de/konto-karte/csx/csx-status-s.html) - Бесплатный счет и банковская карта на первые 12 месяцев
+- [Zürcher Kantonalbank ZKB](https://www.zkb.ch/de/hilfe/sc/wie-может-защитить-от-ukraine-an-account-at-the-.html)
+
 
 
 ## Кредитные карты

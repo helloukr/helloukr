@@ -13,7 +13,11 @@ description:
 ![Банкноти Швейцарії](/assets/img/banknoten.jpg)
 
 ## Як відкрити банківський рахунок
-У Цюріхському Кантональному Банку ([Zürcher Kantonalbank ZKB](https://www.zkb.ch/de/hilfe/sc/wie-koennen-schutzbeduerftige-aus-der-ukraine-ein-konto-bei-der-.html)) біженьці які мають паспорт та дозвіл S (Ausweis S) можуть відкрити новий банківський рахунок.
+
+Особи, які потребують захисту за допомогою паспорта та S-картки, можуть відкрити банківський рахунок у багатьох швейцарських банках: 
+- [Credit-Suisse](https://csx.credit-suisse.com/de/konto-karte/csx/csx-status-s.html) - Безкоштовний рахунок та банківська картка за перші 12 місяців
+- [Zürcher Kantonalbank ZKB](https://www.zkb.ch/de/hilfe/sc/wie-can-protect-from-ukraine-an-account-at-the-.html)
+
 
 
 ## Кредитні картки
